@@ -12,6 +12,14 @@
 }
 
 
+.contact {
+  background-image: url('https://picsum.photos/200/300');
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+
+
 .welcome {
     margin-bottom: 1.5rem;
     text-align: center;
