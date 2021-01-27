@@ -12,15 +12,15 @@
 }
 
 /* Center align the text within the three columns below the carousel */
-.marketing .col-lg-4 {
+.welcome .col-lg-4 {
   margin-bottom: 1.5rem;
   text-align: center;
 }
-.marketing h2 {
+.welcome h2 {
   font-weight: 400;
 }
 /* rtl:begin:ignore */
-.marketing .col-lg-4 p {
+.welcome .col-lg-4 p {
   margin-right: .75rem;
   margin-left: .75rem;
 }
