@@ -20,11 +20,13 @@
   font-size: 30px;
   font-family: 'Roboto Slab', serif;
   background-color: white;
-  transition-duration: 0.3s;
+  transition-duration: 0.5s;
+  border-radius: none;
 }
 
 .btn:hover {
   background-color: black;
+  opacity: 80%;
   color: white;
 }
 
