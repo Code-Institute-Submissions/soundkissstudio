@@ -25,6 +25,11 @@
 
 
 /* Center align the text within the three columns below the carousel */
+.services img {
+  margin-bottom: 2rem;
+}
+
+
 .services .col-lg-4 {
   margin-bottom: 1.5rem;
   text-align: center;
