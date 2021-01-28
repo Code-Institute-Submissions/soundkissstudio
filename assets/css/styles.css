@@ -47,7 +47,7 @@
 }
 
 #hero-image {
-  background-image: url('./assets/images/soundkiss.jpg');
+  background-image: url('/Users/alexander/github/soundkissstudio/assets/images/soundkiss.jpg');
   background-repeat: no-repeat;
   background-size: cover;
   width: 100%;
