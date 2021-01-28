@@ -1,5 +1,10 @@
+
+font-family: 'Roboto', sans-serif;
+font-family: 'Roboto Slab', serif;
+
+
 .carousel{
-  margin-bottom: 3rem;
+  margin-bottom: 10rem;
 }
 
 .carousel-caption {
@@ -31,12 +36,14 @@
   margin-bottom: 1.5rem;
   text-align: center;
 }
-.services h2 {
-  font-weight: 400;
+.services h3 {
+  font-family: 'Roboto Slab', serif;
+
 }
 /* rtl:begin:ignore */
 .services .col-lg-4 p {
   margin-right: .75rem;
   margin-left: .75rem;
+  font-family: 'Roboto', sans-serif;
 }
 /* rtl:end:ignore */
