@@ -30,6 +30,10 @@
   color: white;
 }
 
+.a {font-size: 30px;
+font-family: 'Roboto Slab', serif;
+}
+
 /*
   background-image: url('/Users/alexander/github/soundkissstudio/assets/images/soundkiss.jpg');
   background-repeat: no-repeat;
