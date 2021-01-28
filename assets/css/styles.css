@@ -11,12 +11,20 @@
   font-size: 40px;
 }
 
-/*
+
 .contact {
+  margin-bottom: 5rem;
+}
+
+.contact button{
+  font-size: 100px;
+}
+
+/*
   background-image: url('/Users/alexander/github/soundkissstudio/assets/images/soundkiss.jpg');
   background-repeat: no-repeat;
   background-size: cover;
-}
+
 */
 
 
