@@ -21,7 +21,7 @@
   font-family: 'Roboto Slab', serif;
   background-color: white;
   transition-duration: 0.5s;
-  border-radius: none;
+  border-radius: 0;
 }
 
 .btn:hover {
