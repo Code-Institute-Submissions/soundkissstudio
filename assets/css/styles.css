@@ -16,8 +16,9 @@
   margin-bottom: 5rem;
 }
 
-.contact button{
-  font-size: 100px;
+.contact row btn {
+  font-family: 'Roboto Slab', serif;
+  font-size: 30px;
 }
 
 /*
