@@ -3,7 +3,7 @@ font-family: 'Roboto', sans-serif;
 font-family: 'Roboto Slab', serif;
 
 
-.carousel {
+.carousel container-fluid {
   margin-bottom: 10rem;
 }
 
@@ -23,7 +23,6 @@ font-family: 'Roboto Slab', serif;
 }
 
 
-
 .welcome {
     margin-bottom: 1.5rem;
     text-align: center;
@@ -37,8 +36,8 @@ font-family: 'Roboto Slab', serif;
 }
 .services h3 {
   font-family: 'Roboto Slab', serif;
-
 }
+
 /* rtl:begin:ignore */
 .services .col-lg-4 p {
   margin-right: .75rem;
