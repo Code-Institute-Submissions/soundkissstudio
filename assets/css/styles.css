@@ -13,12 +13,18 @@
 
 
 .contact {
-  margin-bottom: 5rem;
+  margin-bottom: 3rem;
 }
 
-.contact row btn {
-  font-family: 'Roboto Slab', serif;
+.btn  {
   font-size: 30px;
+  font-family: 'Roboto Slab', serif;
+  background-color: white;
+}
+
+.btn:hover {
+  background-color: black;
+  color: white;
 }
 
 /*
