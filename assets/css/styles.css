@@ -177,13 +177,18 @@ animation: fadeIn ease 5s;
 
 .footer {
   background: black;
-  margin-top: 5rem;
+  padding-top: 5rem;
 }
 
 .footer i {
-  font-size: 3rem;
+  font-size: 2rem;
 }
 
 .footer i:hover {
   opacity: 60%;
+}
+
+.footer p{
+  color: white;
+  font-size: 20px;
 }
