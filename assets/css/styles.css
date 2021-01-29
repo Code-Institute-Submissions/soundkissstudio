@@ -55,6 +55,7 @@
   position: relative;
   width: 100vw;
   height: 100vh;
+  margin-bottom: 3rem;
 }
 
 
@@ -73,6 +74,44 @@ https://medium.com/@ItsMeDannyZ/code-a-full-width-hero-background-image-with-tra
   justify-content: center;
   flex-direction: column;
 }
+
+/* Fade in animation code sourced from https://blog.hubspot.com/website/css-fade-in */
+
+.fade-in {
+animation: fadeIn ease 5s;
+-webkit-animation: fadeIn ease 5s;
+-moz-animation: fadeIn ease 5s;
+-o-animation: fadeIn ease 5s;
+-ms-animation: fadeIn ease 5s;
+}
+@keyframes fadeIn {
+0% {opacity:0;}
+100% {opacity:1;}
+}
+
+@-moz-keyframes fadeIn {
+0% {opacity:0;}
+100% {opacity:1;}
+}
+
+@-webkit-keyframes fadeIn {
+0% {opacity:0;}
+100% {opacity:1;}
+}
+
+@-o-keyframes fadeIn {
+0% {opacity:0;}
+100% {opacity:1;}
+}
+
+@-ms-keyframes fadeIn {
+0% {opacity:0;}
+100% {opacity:1;}
+}
+
+
+
+
 
 .hero-text h1 {
   font-family: 'Roboto Slab', serif;
