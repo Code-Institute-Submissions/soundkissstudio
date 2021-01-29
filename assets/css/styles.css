@@ -21,7 +21,8 @@ h4 {
 
 p {
   font-family: 'Roboto', serif;
-  font-weight: 400;
+  font-weight: 300;
+  font-size: 20px;
 }
 
 
@@ -129,6 +130,9 @@ animation: fadeIn ease 5s;
   margin: 2.5rem 0;
 }
 
+.studio p {
+  font-size: 20px;
+}
 
 .hero-text h1 {
   font-family: 'Roboto Slab', serif;
@@ -147,19 +151,13 @@ animation: fadeIn ease 5s;
   margin-bottom: 2rem;
 }
 
-
-.services .col-lg-4 {
+.services p {
   margin-bottom: 1.5rem;
   text-align: center;
+  font-size: 20px
 }
+
+
 .services h3 {
   font-family: 'Roboto Slab', serif;
 }
-
-/* rtl:begin:ignore */
-.services .col-lg-4 p {
-  margin-right: .75rem;
-  margin-left: .75rem;
-  font-family: 'Roboto', sans-serif;
-}
-/* rtl:end:ignore */
