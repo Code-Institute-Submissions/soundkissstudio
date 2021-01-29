@@ -1,4 +1,30 @@
 
+h1 {
+  font-family: 'Roboto Slab', serif;
+  font-weight: 900;
+}
+
+h2 {
+  font-family: 'Roboto Slab', serif;
+  font-weight: 800;
+}
+
+h3 {
+  font-family: 'Roboto Slab', serif;
+  font-weight: 700;
+}
+
+h4 {
+  font-family: 'Roboto Slab', serif;
+  font-weight: 600;
+}
+
+p {
+  font-family: 'Roboto', serif;
+  font-weight: 400;
+}
+
+
 
 
 /**/
@@ -99,7 +125,9 @@ animation: fadeIn ease 5s;
 }
 
 
-
+.divider {
+  margin: 2.5rem 0;
+}
 
 
 .hero-text h1 {
