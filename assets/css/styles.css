@@ -27,10 +27,13 @@ p {
 }
 
 
+nav
+
+
 #socialicons i {
   color: black;
   padding: .5rem;
-  font-size: 1.2rem;
+  font-size: 1rem;
 }
 
 #socialicons i:hover {
@@ -191,7 +194,6 @@ animation: fadeIn ease 5s;
 
 .footer {
   background: black;
-  padding-top: 5rem;
   opacity: 80%;
 }
 
