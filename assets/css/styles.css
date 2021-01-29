@@ -30,7 +30,11 @@ p {
 #socialicons i {
   color: black;
   padding: .5rem;
-  font-size: 1rem;
+  font-size: 1.2rem;
+}
+
+#socialicons i:hover {
+  opacity: 60%;
 }
 
 
@@ -188,10 +192,11 @@ animation: fadeIn ease 5s;
 .footer {
   background: black;
   padding-top: 5rem;
+  opacity: 80%;
 }
 
 .footer i {
-  font-size: 2rem;
+  font-size: 1.2rem;
 }
 
 .footer i:hover {
