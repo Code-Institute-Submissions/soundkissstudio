@@ -27,6 +27,16 @@ p {
 }
 
 
+#socialicons i {
+  color: black;
+  padding: .2rem;
+
+}
+
+
+
+
+
 
 .services a:link {
   text-decoration: none;
