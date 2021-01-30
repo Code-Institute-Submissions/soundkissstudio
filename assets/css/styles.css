@@ -27,18 +27,25 @@ p {
 }
 
 
-nav
 
+.sm-icons {
+  flex-direction: row;
+  }
+  @media only screen and (max-width: 960px) {
+  .sm-icons .nav-item {
+    padding-right: 1em;
+  }
+}
 
-#socialicons i {
+.sm-icons i {
   color: black;
-  padding: .5rem;
   font-size: 1rem;
 }
 
-#socialicons i:hover {
+.sm-icons i:hover {
   opacity: 60%;
 }
+
 
 
 
