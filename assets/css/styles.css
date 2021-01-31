@@ -23,6 +23,7 @@ h4 {
 p {
   font-family: 'Roboto', serif;
   font-weight: 300;
+  font-size: 20px;
 }
 
 
@@ -52,15 +53,6 @@ p {
 
 
 
-.services a:link {
-  text-decoration: none;
-  font-family: 'Roboto Slab', serif;
-  color: black;
-}
-
-.services a:hover {
-  opacity: 60%;
-}
 
 
 
@@ -167,8 +159,8 @@ animation: fadeIn ease 5s;
   margin: 2.5rem 0;
 }
 
-.studio p {
-  font-size: 20px;
+.feature p {
+  font-size: 30px;
 }
 
 .hero-text h1 {
@@ -198,6 +190,19 @@ animation: fadeIn ease 5s;
 .services h3 {
   font-family: 'Roboto Slab', serif;
 }
+
+.services a:link {
+  text-decoration: none;
+  font-family: 'Roboto Slab', serif;
+  color: black;
+}
+
+.services a:hover {
+  opacity: 60%;
+}
+
+
+
 
 
 #live-sound {
