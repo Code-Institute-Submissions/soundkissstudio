@@ -1,4 +1,4 @@
-
+/*Styles*/
 
 h1 {
   font-family: 'Roboto Slab', serif;
@@ -27,6 +27,7 @@ p {
 }
 
 
+/*Navbar Social Media Icons*/
 
 .sm-icons {
   flex-direction: row;
@@ -49,15 +50,8 @@ p {
 
 
 
+/*Contact Section*/
 
-
-
-
-
-
-
-
-/**/
 .contact btn {
   font-size: 30px;
   font-family: 'Roboto Slab', serif;
@@ -75,7 +69,6 @@ p {
 .btn:active {
 }
 
-
 .contact {
   margin-bottom: 3rem;
 }
@@ -92,6 +85,11 @@ p {
 }
 
 
+/*Hero Image and Overlay*/
+/* Reference for making hero and overlay work
+https://medium.com/@ItsMeDannyZ/code-a-full-width-hero-background-image-with-transparent-overlay-95d757f8ff2c */
+
+
 #hero-image {
   background-image: url('../images/soundkiss.jpg');
   background-repeat: no-repeat;
@@ -101,12 +99,9 @@ p {
   width: 100vw;
   height: 100vh;
   margin-bottom: 3rem;
+  margin-top: 3rem;
 }
 
-
-/* Reference for making hero and overlay work
-
-https://medium.com/@ItsMeDannyZ/code-a-full-width-hero-background-image-with-transparent-overlay-95d757f8ff2c */
 
 .overlay {
   position: absolute;
@@ -120,6 +115,8 @@ https://medium.com/@ItsMeDannyZ/code-a-full-width-hero-background-image-with-tra
   flex-direction: column;
 }
 
+
+/*Fade in animation for Hero image and overlay*/
 /* Fade in animation code sourced from https://blog.hubspot.com/website/css-fade-in */
 
 .fade-in {
@@ -155,8 +152,12 @@ animation: fadeIn ease 5s;
 }
 
 
+
+
+
 .divider {
-  margin: 2.5rem 0;
+  margin-top: 1.5rem;
+  margin-bottom: 1.5rem;
 }
 
 
@@ -172,7 +173,7 @@ animation: fadeIn ease 5s;
   }
 
 
-/* Center align the text within the three columns below the carousel */
+/* Services */
 .services img {
   margin-bottom: 2rem;
 }
@@ -182,7 +183,6 @@ animation: fadeIn ease 5s;
   text-align: center;
   font-size: 20px;
 }
-
 
 .services h3 {
   font-family: 'Roboto Slab', serif;
@@ -199,12 +199,15 @@ animation: fadeIn ease 5s;
 }
 
 
-
+/*Events*/
 
 
 #live-sound {
   padding-bottom: 5rem;
 }
+
+
+/*Footer*/
 
 .footer {
   background: black;
