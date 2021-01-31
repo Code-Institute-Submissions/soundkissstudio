@@ -199,6 +199,13 @@ animation: fadeIn ease 5s;
   font-family: 'Roboto Slab', serif;
 }
 
+
+#live-sound {
+  padding-bottom: 5rem;
+}
+
+
+
 .footer {
   background: black;
   opacity: 80%;
