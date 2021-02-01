@@ -235,8 +235,12 @@ animation: fadeIn ease 5s;
 }
 
 
-.about-icons {
-  color: red;
+.about-icons a{
+  color: cornflowerblue;
+}
+
+.about-icons a:hover {
+  color: #64edbc;
 }
 
 
