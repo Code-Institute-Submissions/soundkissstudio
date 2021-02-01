@@ -1,3 +1,4 @@
+
 /*Styles*/
 
 h1 {
@@ -262,3 +263,9 @@ animation: fadeIn ease 5s;
 .sm-icons .nav-item {
   text-align: center;
 }
+
+
+var tooltipTriggerList = [].slice.call(document.querySelectorAll('[data-bs-toggle="tooltip"]'))
+var tooltipList = tooltipTriggerList.map(function (tooltipTriggerEl) {
+  return new bootstrap.Tooltip(tooltipTriggerEl)
+})
