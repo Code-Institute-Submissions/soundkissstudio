@@ -225,3 +225,13 @@ animation: fadeIn ease 5s;
   color: white;
   font-size: 20px;
 }
+
+/*About page CSS*/
+
+#about-soundkiss {
+  padding-top: 5rem;
+}
+
+.tab {
+  margin-left: 40px;
+}
