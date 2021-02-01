@@ -236,14 +236,14 @@ animation: fadeIn ease 5s;
 
 
 
-.about-icons i{
+.about-icons a i{
   color: black;
 }
 
-
-.about-icons i:hover{
+.about-icons a:hover{
   color: cornflowerblue;
 }
+
 
 
 /*@media css*/
