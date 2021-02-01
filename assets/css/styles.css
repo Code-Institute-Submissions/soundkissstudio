@@ -29,13 +29,7 @@ p {
 
 /*Navbar Social Media Icons*/
 
-.sm-icons {
-  flex-direction: row;
-  }
-  @media only screen and (max-width: 960px) {
-  .sm-icons .nav-item {
-  }
-}
+
 
 .sm-icons i {
   color: black;
@@ -46,6 +40,9 @@ p {
   opacity: 60%;
 }
 
+.navbar-collapse .collapse .show .sm-icons {
+  margin: 0 auto;
+}
 
 
 
@@ -100,6 +97,7 @@ https://medium.com/@ItsMeDannyZ/code-a-full-width-hero-background-image-with-tra
   margin-bottom: 3rem;
   margin-top: 3rem;
 }
+
 
 
 .overlay {
@@ -234,4 +232,20 @@ animation: fadeIn ease 5s;
 
 .tab {
   margin-left: 40px;
+}
+
+
+@media only screen and (max-width: 600px) {
+    #hero-image {
+        background-size: contain;
+        width: 100vw;
+        height: 50vh;
+        margin-bottom: 3rem;
+        margin-top: 1rem;
+    }
+}
+
+@media only screen and (max-width: 600px) {
+.sm-icons .nav-item {
+  text-align: center;
 }
