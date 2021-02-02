@@ -136,23 +136,23 @@ Javascript (Via Bootstrap)
 
 # Tools and Libraries
 
-Atom- Atom version 1.54 was used as code editor. I cloned my Github repository after some internet issues and pushed most of my work from this environment.
+[Atom](https://atom.io): version 1.54 was used as code editor. I cloned my Github repository after some internet issues and pushed most of my work from this environment.
 
-Balsamiq - used to create wireframes during design and redesign
+[Balsamiq](https://balsamiq.com): used to create wireframes during design and redesign
 
-Bootstrap 5.0.0 Beta 1 - I used the latest release of Bootstrap to assist with the responsiveness and styling of the website. I discovered that it was so new documentation about new features was sometimes limited. I did however refer a great deal to the Bootstrap 5 website documentation and examples.
+[Bootstrap 5.0.0 Beta 1](https://getbootstrap.com): I used the latest release of Bootstrap to assist with the responsiveness and styling of the website. I discovered that it was so new documentation about new features was sometimes limited. I did however refer a great deal to the Bootstrap 5 website documentation and examples.
 
-Bootstrap Icons v1.3.0 - Bootstrap’s own icon set was employed for the navbar social media icons and footer icons.
+[Bootstrap Icons v1.3.0](https://icons.getbootstrap.com) - Bootstrap’s own icon set was employed for the navbar social media icons and footer icons.
 
-Google Chrome - Google Chrome’s browser inspect feature was used to check website responsiveness and error check code.
+[Google Chrome](https://www.google.ca/intl/en_ca/chrome/) - Google Chrome’s browser inspect feature was used to check website responsiveness and error check code.
 
-Font-awesome Version 5.15.2  - Font awesome icons were used for the about page icons below the title and bandcamp icon for selected recordings.
+[Font-awesome Version 5.15.2](https://fontawesome.com)  - Font awesome icons were used for the about page icons below the title and bandcamp icon for selected recordings.
 
-Google Fonts- Roboto and Roboto Slab were imported to the document’s header via links and referenced in CSS.
+[Google Fonts](https://fonts.google.com)- Roboto and Roboto Slab were imported to the document’s header via links and referenced in CSS.
 
-Git- Was used when contacting student support and for version control.
+[Git](https://www.gitpod.io)- Was used when contacting student support and for version control.
 
-Github- Used to store the project code pushed from Git
+[Github] (https://github.com/)- Used to store the project code pushed from Git
 
 Apple Preview- Used for photo editing
 
