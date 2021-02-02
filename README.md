@@ -190,9 +190,9 @@ NOT YET TESTED
 
 Google lighthouse and Wave Web Accessibility Evaluation Tool were used to test the site’s accessibility
 
-https://developers.google.com/web/tools/lighthouse
+(https://developers.google.com/web/tools/lighthouse)
 
-https://wave.webaim.org/
+(https://wave.webaim.org/)
 
 Issues?
 
@@ -201,11 +201,11 @@ Issues?
 
 Responsiveness was tested using
 
-https://www.responsinator.com/
+(https://www.responsinator.com/)
 
-https://developers.google.com/web/tools/chrome-devtools/device-mode
+(https://developers.google.com/web/tools/chrome-devtools/device-mode)
 
-https://search.google.com/test/mobile-friendly
+(https://search.google.com/test/mobile-friendly)
 
 
 ## Bugs
