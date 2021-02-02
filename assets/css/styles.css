@@ -58,12 +58,9 @@ p {
 }
 
 .contact btn:hover {
-  background-color: black;
+  background-color: cornflowerblue;
   opacity: 80%;
   color: white;
-}
-
-.btn:active {
 }
 
 .contact {
@@ -82,7 +79,7 @@ p {
 }
 
 
-/*Hero Image and Overlay*/
+/*Hero image, text and overlay*/
 /* Reference for making hero and overlay work
 https://medium.com/@ItsMeDannyZ/code-a-full-width-hero-background-image-with-transparent-overlay-95d757f8ff2c */
 
@@ -99,8 +96,6 @@ https://medium.com/@ItsMeDannyZ/code-a-full-width-hero-background-image-with-tra
   margin-top: 3rem;
 }
 
-
-
 .overlay {
   position: absolute;
   width: 100%;
@@ -113,8 +108,16 @@ https://medium.com/@ItsMeDannyZ/code-a-full-width-hero-background-image-with-tra
   flex-direction: column;
 }
 
+.hero-text h1 {
+  font-family: 'Roboto Slab', serif;
+}
 
-/*Fade in animation for Hero image and overlay*/
+.welcome {
+    margin-bottom: 1.5rem;
+    text-align: center;
+  }
+
+/*Fade in animation for Hero image, text and overlay*/
 /* Fade in animation code sourced from https://blog.hubspot.com/website/css-fade-in */
 
 .fade-in {
@@ -149,26 +152,12 @@ animation: fadeIn ease 5s;
 100% {opacity:1;}
 }
 
-
-
-
+/* Divider */
 
 .divider {
   margin-top: 1.5rem;
   margin-bottom: 1.5rem;
 }
-
-
-.hero-text h1 {
-  font-family: 'Roboto Slab', serif;
-}
-
-
-
-.welcome {
-    margin-bottom: 1.5rem;
-    text-align: center;
-  }
 
 
 /* Services */
@@ -203,12 +192,9 @@ animation: fadeIn ease 5s;
 
 
 /*Events*/
-
-
 #live-sound {
   padding-bottom: 5rem;
 }
-
 
 /*Footer*/
 
@@ -240,7 +226,6 @@ animation: fadeIn ease 5s;
   margin-left: 40px;
 }
 
-
 .about-icons a{
   color: cornflowerblue;
 }
@@ -248,7 +233,6 @@ animation: fadeIn ease 5s;
 .about-icons a:hover {
   color: #64edbc;
 }
-
 
 
 /*@media css*/
@@ -268,9 +252,3 @@ animation: fadeIn ease 5s;
 .sm-icons .nav-item {
   text-align: center;
 }
-
-
-var tooltipTriggerList = [].slice.call(document.querySelectorAll('[data-bs-toggle="tooltip"]'))
-var tooltipList = tooltipTriggerList.map(function (tooltipTriggerEl) {
-  return new bootstrap.Tooltip(tooltipTriggerEl)
-})
