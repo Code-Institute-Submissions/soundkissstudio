@@ -1,6 +1,5 @@
 
-/*Styles*/
-
+/* Font styles*/
 h1 {
   font-family: 'Roboto Slab', serif;
   font-weight: 900;
@@ -30,8 +29,6 @@ p {
 
 /*Navbar Social Media Icons*/
 
-
-
 .sm-icons i {
   color: black;
   font-size: 1rem;
@@ -44,8 +41,6 @@ p {
 .navbar-collapse .collapse .show .sm-icons {
   margin: 0 auto;
 }
-
-
 
 /*Contact Section*/
 
@@ -82,7 +77,6 @@ p {
 /*Hero image, text and overlay*/
 /* Reference for making hero and overlay work
 https://medium.com/@ItsMeDannyZ/code-a-full-width-hero-background-image-with-transparent-overlay-95d757f8ff2c */
-
 
 #hero-image {
   background-image: url('../images/soundkiss.jpg');
@@ -161,6 +155,7 @@ animation: fadeIn ease 5s;
 
 
 /* Services */
+
 .services img {
   margin-bottom: 2rem;
 }
@@ -216,7 +211,7 @@ animation: fadeIn ease 5s;
   font-size: 20px;
 }
 
-/*About page CSS*/
+/*About page*/
 
 #about-soundkiss {
   padding-top: 5rem;
@@ -236,7 +231,7 @@ animation: fadeIn ease 5s;
 
 
 /*@media css*/
-/*Thanks to Johann Alberts and Igor at Codeinstitue Student Support for their guidance on using @media */
+/*Thanks to Johann Alberts and Igor at Codeinstitue Student Support for their guidance on using @media queries */
 
 @media only screen and (max-width: 600px) {
     #hero-image {
