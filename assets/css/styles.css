@@ -42,38 +42,6 @@ p {
   margin: 0 auto;
 }
 
-/*Contact Section*/
-
-.contact btn {
-  font-size: 30px;
-  font-family: 'Roboto Slab', serif;
-  background-color: white;
-  transition-duration: 0.5s;
-  border-radius: 0;
-}
-
-.contact btn:hover {
-  background-color: cornflowerblue;
-  opacity: 80%;
-  color: white;
-}
-
-.contact {
-  margin-bottom: 3rem;
-}
-
-.contact a:link {
-  color: black;
-  text-decoration: none;
-  font-size: 30px;
-  font-family: 'Roboto Slab', serif;
-}
-
-.contact a:hover {
-  opacity: 60%;
-}
-
-
 /*Hero image, text and overlay*/
 /* Reference for making hero and overlay work
 https://medium.com/@ItsMeDannyZ/code-a-full-width-hero-background-image-with-transparent-overlay-95d757f8ff2c */
@@ -157,32 +125,32 @@ animation: fadeIn ease 5s;
 /* Services */
 
 .services img {
-  margin-bottom: 2rem;
+	margin-bottom: 2rem;
 }
 
 .services p {
-  margin-bottom: 1.5rem;
-  text-align: center;
-  font-size: 20px;
-}
-
-.services h3 {
-  font-family: 'Roboto Slab', serif;
-  color: black;
-}
-
-.services h3:hover {
-  color: cornflowerblue;
+	margin-bottom: 1.5rem;
+	text-align: center;
+	font-size: 20px;
 }
 
 .services a:link {
-  text-decoration: none;
-  font-family: 'Roboto Slab', serif;
-  color: black;
+	text-decoration: none;
+	font-family: 'Roboto Slab', serif;
 }
 
 .services a:hover {
-  opacity: 60%;
+	opacity: 60%;
+  color: cornflowerblue;
+}
+
+.services h3 {
+	font-family: 'Roboto Slab', serif;
+	color: black;
+}
+
+.services h3:hover {
+	color: cornflowerblue;
 }
 
 /* Images */
