@@ -85,7 +85,7 @@ https://medium.com/@ItsMeDannyZ/code-a-full-width-hero-background-image-with-tra
   background-position: 50% 50%;
   position: relative;
   width: 100vw;
-  height: 100vh;
+  height: 80vh;
   margin-bottom: 3rem;
   margin-top: 3rem;
 }
@@ -185,6 +185,11 @@ animation: fadeIn ease 5s;
   opacity: 60%;
 }
 
+/* Images */
+
+.img-mics {
+  max-height: 80vh;
+}
 
 /*Events*/
 #live-sound {
