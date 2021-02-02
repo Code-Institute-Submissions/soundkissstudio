@@ -1,26 +1,32 @@
 # Soundkiss Studio
 
+![Soundkiss Logo](/Users/alexander/github/soundkissstudio/assets/images/soundkiss.jpg)
+
 Soundkiss recording studio service and legacy page
 
 ## Project goals
 
 The goal of this project website is to create a web page for the recording studio I used to run in Taipei, Taiwan ROC, named Soundkiss.
+
 With this actual business in mind, I have three goals in mind for this project.
+
 The first is to create a sample webpage that details all of the services the studio offered to potential clients. For this I imagined a clear and concise site that would sell our services and inspire potential clients to make contact.
+
 The second goal, since much of my personal creative output as a recording engineer and producer stems from my time working at Soundkiss, was to create an about page that showcases some of the creative product I helped to create.
+
 Thirdly, I hoped that when I create a personal webpage, I would be able to integrate this site as record of the studio.
 
 ## User Experience (UX)
 
 ### User stories
 
-As a primarily English speaking musician or creative requiring audio services in Taiwan, when searching online for local options I want to see somewhere that is shown to be both professional and inviting, offers interest grabbing services and actual samples of creative products that appeal to me
+As a primarily English speaking musician or creative requiring audio services in Taiwan, when searching online for local options I want to see somewhere that is shown to be both professional and inviting, offers interest grabbing services and actual samples of creative products that appeal to me.
 
 ## First Time Visitor
 
 As a First Time Visitor:
 
-1. I want my first impression of the site's design to be positive and the brand combined with content to be viewed as professional and creative. 
+1. I want my first impression of the site's design to be positive and the site to instil a sense of professionalism, creativity and energy. 
 
 2. I want to be reassured that this company and site are trustworthy and credible. 
 
@@ -48,7 +54,9 @@ Having only ever designed one website prior to this, at the project outset I imm
 
 [awwwards](https://www.awwwards.com) showcases some incredible designs and one of the few music related sites that resonated with me was [Pias.com](https://www.pias.com/).
 
-This site employs a classic black and white colour scheme with great images and javascript media. Although much of the content is way beyond my fledgling skills and the scope of this first project, I was inspired by how the website presented a lot of content on a single page, but managed to keep the design clean and clear.
+This site employs a classic black and white colour scheme with great images and javascript media.
+
+Although much of the content is way beyond my fledgling skills and the scope of this first project, I was inspired by how the website presented a lot of content on a single page, but managed to keep the design clean and clear.
 I was particularly impressed with the design of their video media player, which I had hoped to draw design impetus from, but it proved a challenge too much for me to begin!
 
 ## Design Choices - Lessons
@@ -57,20 +65,23 @@ This site however also demonstrates many sites try to be full of animation and i
 
 ## Design
 
-###Colors
+### Colors
 
 I therefore decided on keeping my design clean and concise. I decided black and white text and plain backgrounds would provide good contrast to the images and media I would present.
 
-Favouring opacity changes to show clickable content, I used Cornflower Blue (#6495ed) paired with a tetradic pallette related medium Aquamarine (#64edbc)  for hover class icons on the about page.
+Favouring opacity changes to show clickable content, I used Cornflower Blue (#6495e) paired with a tetradic pallette related medium Aquamarine (#64edbc) for hover class icons on the about page.
+
+![Tetradic pallette](/Users/alexander/github/Soundkiss/assets/images/tetradic-cornflower.png)
+
 
 This calm and lively color combination highlights the icons as clickable links.
 
 ### Typography
 
 Having explored several font choices and combinations I settled on Roboto Slab from Google Fonts for its chunky rounded headings.
-This was paired with Roboto, the font family being described as posessing:
+This was paired with Roboto, the font family being described by Google as possessing:
 
- ‘a dual nature. It has a mechanical skeleton and the forms are largely geometric. At the same time, the font features friendly and open curves.’
+ >‘a dual nature. It has a mechanical skeleton and the forms are largely geometric. At the same time, the font features friendly and open curves.’
 
 Science and the personal are at the heart of recording, and as a recommended google pairing this combination seems to fit well. Sans Serif was selected as the fallback font.
 
@@ -88,6 +99,8 @@ Finding the selection sometimes not suitable, I have also used icons from FontAw
 When I first established the studio I commissioned a company logo to be designed by Pia Hsieh, an artist friend. This was based on something I imagined, which is the focused and precise but still vibrant motion a hummingbird draws nectar from a flower.
 
 Next, imagining sound as a flower emerging from a speaker, there’s the logo! If you hadn’t guessed already, the hummingbird is me and I know Leonard Cohen was also very fond of them as a subject.
+
+![Soundkiss Logo](/Users/alexander/github/soundkissstudio/assets/images/soundkiss.jpg)
 
 Since the logo continues to exist on albums and online media that refers to the studio, I wanted to continue using it. Even though now I’d choose a rebrand, it still is distinctive and as a graphic, also provides nice contrast to the website’s photo media.
 
