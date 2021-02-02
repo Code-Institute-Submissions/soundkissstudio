@@ -1,45 +1,212 @@
-![CI logo](https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png)
+# Soundkiss Studio
 
-Welcome USER_NAME,
+Soundkiss recording studio service and legacy page
 
-This is the Code Institute student template for Gitpod. We have preinstalled all of the tools you need to get started. You can safely delete this README.md file, or change it for your own project. Please do read it at least once, though! It contains some important information about Gitpod and the extensions we use.
+## Project goals
 
-## Gitpod Reminders
+The goal of this project website is to create a web page for the recording studio I used to run in Taipei, Taiwan ROC, named Soundkiss.
+With this actual business in mind, I have three goals in mind for this project.
+The first is to create a sample webpage that details all of the services the studio offered to potential clients. For this I imagined a clear and concise site that would sell our services and inspire potential clients to make contact.
+The second goal, since much of my personal creative output as a recording engineer and producer stems from my time working at Soundkiss, was to create an about page that showcases some of the creative product I helped to create.
+Thirdly, I hoped that when I create a personal webpage, I would be able to integrate this site as record of the studio.
 
-To run a frontend (HTML, CSS, Javascript only) application in Gitpod, in the terminal, type:
+## User Experience (UX)
 
-`python3 -m http.server`
+### User stories
 
-A blue button should appear to click: *Make Public*,
+As a primarily English speaking musician or creative requiring audio services in Taiwan, when searching online for local options I want to see somewhere that is shown to be both professional and inviting, offers interest grabbing services and actual samples of creative products that appeal to me
 
-Another blue button should appear to click: *Open Browser*.
+## First Time Visitor
 
-To run a backend Python file, type `python3 app.py`, if your Python file is named `app.py` of course.
+As a First Time Visitor:
 
-A blue button should appear to click: *Make Public*,
+1. I want my first impression of the site's design to be positive and the brand combined with content to be viewed as professional and creative. 
 
-Another blue button should appear to click: *Open Browser*.
+2. I want to be reassured that this company and site are trustworthy and credible. 
 
-In Gitpod you have superuser security privileges by default. Therefore you do not need to use the `sudo` (superuser do) command in the bash terminal in any of the lessons.
+3. I want to easily understand the services being provided and how I can contact the studio management if I have questions. 
 
-## Updates Since The Instructional Video
+4. I want to see examples of the creative output of other artists who have used the facility.
 
-We continually tweak and adjust this template to help give you the best experience. Here is the version history:
+5. I want my curiosity to be fired enough to want to make contact and enquire about next steps of engagement.
 
-**October 21 2020:** Versions of the HTMLHint, Prettier, Bootstrap4 CDN and Auto Close extensions updated. The Python extension needs to stay the same version for now.
 
-**October 08 2020:** Additional large Gitpod files (`core.mongo*` and `core.python*`) are now hidden in the Explorer, and have been added to the `.gitignore` by default.
+## Returning and Frequent Visitor requirements and expectations
 
-**September 22 2020:** Gitpod occasionally creates large `core.Microsoft` files. These are now hidden in the Explorer. A `.gitignore` file has been created to make sure these files will not be committed, along with other common files.
+As a Returning and Frequent visitor:
 
-**April 16 2020:** The template now automatically installs MySQL instead of relying on the Gitpod MySQL image. The message about a Python linter not being installed has been dealt with, and the set-up files are now hidden in the Gitpod file explorer.
+1. Most important is that I can immediately contact the company and find the necessary contact information required. This may be required on the move and should be made as accessible and visible as possible.
 
-**April 13 2020:** Added the _Prettier_ code beautifier extension instead of the code formatter built-in to Gitpod.
+2. See the latest projects and media associated with the studio.
 
-**February 2020:** The initialisation files now _do not_ auto-delete. They will remain in your project. You can safely ignore them. They just make sure that your workspace is configured correctly each time you open it. It will also prevent the Gitpod configuration popup from appearing.
+3. See the latest equipment and services on offer.
 
-**December 2019:** Added Eventyret's Bootstrap 4 extension. Type `!bscdn` in a HTML file to add the Bootstrap boilerplate. Check out the <a href="https://github.com/Eventyret/vscode-bcdn" target="_blank">README.md file at the official repo</a> for more options.
 
---------
+## Design Choices - Inspirations
 
-Happy coding!
+Having only ever designed one website prior to this, at the project outset I immediately looked for inspiration online.
+
+[awwwards](https://www.awwwards.com) showcases some incredible designs and one of the few music related sites that resonated with me was [Pias.com](https://www.pias.com/).
+
+This site employs a classic black and white colour scheme with great images and javascript media. Although much of the content is way beyond my fledgling skills and the scope of this first project, I was inspired by how the website presented a lot of content on a single page, but managed to keep the design clean and clear.
+I was particularly impressed with the design of their video media player, which I had hoped to draw design impetus from, but it proved a challenge too much for me to begin!
+
+## Design Choices - Lessons
+
+This site however also demonstrates many sites try to be full of animation and interactive elements, and I decided that for my studio site many of these would be redundant and perhaps viewed as trying just a little too hard to impress. The ultimate goal of my website is to promote direct ‘personal’ contact, and if anything too much detail feels quite impersonal and overwhelming, which I wanted to avoid.
+
+## Design
+
+###Colors
+
+I therefore decided on keeping my design clean and concise. I decided black and white text and plain backgrounds would provide good contrast to the images and media I would present.
+
+Favouring opacity changes to show clickable content, I used Cornflower Blue (#6495ed) paired with a tetradic pallette related medium Aquamarine (#64edbc)  for hover class icons on the about page.
+
+This calm and lively color combination highlights the icons as clickable links.
+
+### Typography
+
+Having explored several font choices and combinations I settled on Roboto Slab from Google Fonts for its chunky rounded headings.
+This was paired with Roboto, the font family being described as posessing:
+
+ ‘a dual nature. It has a mechanical skeleton and the forms are largely geometric. At the same time, the font features friendly and open curves.’
+
+Science and the personal are at the heart of recording, and as a recommended google pairing this combination seems to fit well. Sans Serif was selected as the fallback font.
+
+### Icons
+
+Utilising bootstrap in the creation of this site I used their newly released Bootstrap Icons v1.2.0 package.
+
+Finding the selection sometimes not suitable, I have also used icons from FontAwesome.
+
+
+## Images
+
+### Logo
+
+When I first established the studio I commissioned a company logo to be designed by Pia Hsieh, an artist friend. This was based on something I imagined, which is the focused and precise but still vibrant motion a hummingbird draws nectar from a flower.
+
+Next, imagining sound as a flower emerging from a speaker, there’s the logo! If you hadn’t guessed already, the hummingbird is me and I know Leonard Cohen was also very fond of them as a subject.
+
+Since the logo continues to exist on albums and online media that refers to the studio, I wanted to continue using it. Even though now I’d choose a rebrand, it still is distinctive and as a graphic, also provides nice contrast to the website’s photo media.
+
+### Photo media
+
+I commissioned Toto Kuo, a photographer friend, to take photos at various points during the evolution of the studio and these I’ve utilised for the included photo media.
+
+Other images include my backstage photo by Sundance Lee, and my on stage concert shot by YC Lin (https://blueballoonstudio.blogspot.com/).
+
+
+## Visual Hierarchy
+
+This site is designed so that the top area presents representative elements of all the page has to offer, minimising the need for cursory scrolling.
+
+Taking a three step, top down approach,
+
+1. The site begins with the Navbar, clearly showing the three pages of the site which are designed for different user interests.
+Home for the unfamiliar browser who wants to find out about the business and what services are offered.
+About for anyone interested in works produced by the studio.
+Contacts for clients who need information immediately or to prepare for visiting.
+
+2. For the Home and about pages, immediately below the hero and title respectively are icons linking to page content. Desired content can be visited directly.
+
+3. Contact links are provided via the fixed footer to facilitate contact.
+
+
+## Languages Used
+
+HTML 5
+CSS
+Javascript (Via Bootstrap)
+
+
+# Tools and Libraries
+
+Atom- Atom version 1.54 was used as code editor. I cloned my Github repository after some internet issues and pushed most of my work from this environment.
+
+Balsamiq - used to create wireframes during design and redesign
+
+Bootstrap 5.0.0 Beta 1 - I used the latest release of Bootstrap to assist with the responsiveness and styling of the website. I discovered that it was so new documentation about new features was sometimes limited. I did however refer a great deal to the Bootstrap 5 website documentation and examples.
+
+Bootstrap Icons v1.3.0 - Bootstrap’s own icon set was employed for the navbar social media icons and footer icons.
+
+Google Chrome - Google Chrome’s browser inspect feature was used to check website responsiveness and error check code.
+
+Font-awesome Version 5.15.2  - Font awesome icons were used for the about page icons below the title and bandcamp icon for selected recordings.
+
+Google Fonts- Roboto and Roboto Slab were imported to the document’s header via links and referenced in CSS.
+
+Git- Was used when contacting student support and for version control.
+
+Github- Used to store the project code pushed from Git
+
+Apple Preview- Used for photo editing
+
+
+##Testing
+
+### HTML Test
+
+Html code was tested using the W3C HTML Validator
+[HTML Validator] - (https://validator.w3.org/)
+
+NOT YET TESTED
+
+#### HTML Test Errors
+
+#### HTML Test Fixes
+
+
+### CSS Test
+
+CSS was tested using the W3C CSS Validator Services
+
+[CSS Validator] - (https://jigsaw.w3.org/css-validator)
+
+NOT YET TESTED
+
+#### CSS Test Errors
+
+#### CSS Test Warnings
+
+#### CSS Test Fixes
+
+
+### Accessibility Testing
+
+Google lighthouse and Wave Web Accessibility Evaluation Tool were used to test the site’s accessibility
+
+https://developers.google.com/web/tools/lighthouse
+
+https://wave.webaim.org/
+
+Issues?
+
+
+### Responsiveness Testing
+
+Responsiveness was tested using
+
+https://www.responsinator.com/
+
+https://developers.google.com/web/tools/chrome-devtools/device-mode
+
+https://search.google.com/test/mobile-friendly
+
+
+## Bugs
+
+
+## Known Bugs
+
+
+## Deployment
+
+## Github Pages
+
+The site has been deployed on Github pages. Please use the following link.
+
+## Credits
+
+## Special Thanks
