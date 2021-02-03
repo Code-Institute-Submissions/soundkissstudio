@@ -126,8 +126,8 @@ animation: fadeIn ease 5s;
 
 .services img {
 	margin-bottom: 2rem;
-  width: 18rem;
-  height: 18rem;
+  width: 16rem;
+  height: 16rem;
 }
 
 .services p {
@@ -154,12 +154,16 @@ animation: fadeIn ease 5s;
 	color: cornflowerblue;
 }
 
-/* audio */
-.audio img{
-  max-height: 70vh
+/* Audio */
+.img-audio{
+  max-height: 80vh
 }
 
-
+/* Rehearsals */
+.img-rehearsals{
+  max-height: 75vh;
+  max-width: 80vw;
+}
 
 /* Images */
 
@@ -170,6 +174,10 @@ animation: fadeIn ease 5s;
 /*Events*/
 #live-sound {
   padding-bottom: 5rem;
+}
+
+.img-events{
+  max-height: 80vh;
 }
 
 /*Footer*/
@@ -218,7 +226,7 @@ animation: fadeIn ease 5s;
 /*@media css*/
 /*Thanks to Johann Alberts and Igor at Codeinstitue Student Support for their guidance on using @media queries */
 
-@media only screen and (max-width: 1100px) {
+@media only screen and (max-width: 768px) {
     #hero-image {
         background-size: contain;
         width: 100vw;
@@ -226,9 +234,13 @@ animation: fadeIn ease 5s;
         margin-bottom: 3rem;
         margin-top: 1rem;
     }
+    .services img {
+      width: 12rem;
+      height: 12rem;
+    }
 }
 
-@media only screen and (max-width: 1100px) {
+@media only screen and (max-width: 768px) {
 .sm-icons .nav-item {
   text-align: center;
 }
