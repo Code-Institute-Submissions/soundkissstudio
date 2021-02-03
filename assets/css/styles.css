@@ -27,6 +27,13 @@ p {
 }
 
 
+/* Navbar */
+
+.navbar-brand {
+  padding-left: 1.5rem;
+}
+
+
 /*Navbar Social Media Icons*/
 
 .sm-icons i {
@@ -142,7 +149,7 @@ animation: fadeIn ease 5s;
 }
 
 .services a:hover {
-	opacity: 60%;
+  opacity: 60%;
 }
 
 .services h3 {
@@ -165,20 +172,20 @@ animation: fadeIn ease 5s;
   max-width: 85vw;
 }
 
-/* Images */
+/* Equipment */
 
 .img-mics {
   max-height: 80vh;
 }
 
-/*Events*/
+/* Events */
 #live-sound {
   padding-bottom: 5rem;
 }
 
 
 
-/*Footer*/
+/* Footer */
 
 .footer {
   background: black;
@@ -198,7 +205,7 @@ animation: fadeIn ease 5s;
   font-size: 20px;
 }
 
-/*About page*/
+/*-------------------------------------- About page */
 
 #about-soundkiss {
   padding-top: 5rem;
@@ -208,6 +215,7 @@ animation: fadeIn ease 5s;
   margin-left: 40px;
 }
 
+/* Icons */
 .about-icons a{
   color: cornflowerblue;
 }
@@ -220,8 +228,11 @@ animation: fadeIn ease 5s;
   font-size: 70px;
 }
 
+/* About */
 
-/*@media css*/
+
+
+/* @media css */
 /*Thanks to Johann Alberts and Igor at Codeinstitue Student Support for their guidance on using @media queries */
 
 @media only screen and (max-width: 768px) {
