@@ -18,7 +18,7 @@ The second goal, since much of my personal creative output as a recording engine
 
 ### User stories
 
-As a primarily English speaking musician or creative requiring audio services in Taiwan, when searching online for local options I want to see somewhere that is shown to be both professional and inviting, offers interest grabbing services and actual samples of creative products that appeal to me.
+As a primarily English speaking musician or creative requiring audio services in Taiwan, when searching online for local options I want to find a service that appears to be both professional and inviting, offers interest grabbing services and actual samples of creative products that appeal to me.
 
 ## First Time Visitor
 
@@ -59,9 +59,18 @@ I was particularly impressed with the design of their video media player, which 
 
 ## Design Choices - Lessons
 
-This site however also demonstrates many sites try to be full of animation and interactive elements, and I decided that for my studio site many of these would be redundant and perhaps viewed as trying just a little too hard to impress. The ultimate goal of my website is to promote direct ‘personal’ contact, and if anything too much detail feels quite impersonal and overwhelming, which I wanted to avoid.
+This site however also demonstrates many sites try to be full of animation and interactive elements, and I decided that for my studio site many of these would be redundant and perhaps to potential clients viewed as trying just a little too hard to impress. The ultimate goal of my website is to promote direct ‘personal’ contact, and i think that too much content is actually overwhelming.
 
 ## Design
+
+From the outset I decided I wanted to use bootstrap in this project, and with the recent release of Bootstrap 5 Beta, I thought I would try the latest version.
+
+Browsing Bootstrap's documentation I decided on a single page design at the outset, which I thought I would build using Accordion architecture. Below is the wireframe for how I envisioned the site.
+
+![Soundkiss Studio initial website design](https://github.com/alexjohnives/soundkissstudio/blob/master/assets/images/soundkisswire1.png)
+
+
+
 
 ### Colors
 
