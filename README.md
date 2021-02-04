@@ -1,10 +1,16 @@
 # Soundkiss Studio
 
-![Soundkiss Logo](/Users/alexander/github/soundkissstudio/assets/images/soundkiss.jpg)
+Soundkiss recording studio service and legacy page
+
+![Website shown on different display sizes](https://github.com/alexjohnives/soundkissstudio/blob/master/assets/images/soundkissresponsivedisplay.png)
 
 <!--<h2 align="center"><img src="https://i.ibb.co/TYvTXz1/Example-CI.png"></h2>-->
 
-Soundkiss recording studio service and legacy page
+
+## Live Website links
+
+![Soundkss Studio](https://alexjohnives.github.io/soundkissstudio/)
+
 
 ## Project goals
 
@@ -63,7 +69,37 @@ I was particularly impressed with the design of their video media player, which 
 
 This site however also demonstrates many sites try to be full of animation and interactive elements, and I decided that for my studio site many of these would be redundant and perhaps viewed as trying just a little too hard to impress. The ultimate goal of my website is to promote direct ‘personal’ contact, and if anything too much detail feels quite impersonal and overwhelming, which I wanted to avoid.
 
-## Design
+## Design Mk1
+
+From the outset I decided I wanted to use bootstrap in this project, and with the recent release of Bootstrap 5 Beta, I thought I would try the latest version.
+
+Browsing Bootstrap's documentation I decided on a single page design , which I thought I would build using Accordion architecture to allow users to select what content they would like to see. Below is the wireframe for the site.
+
+![Soundkiss Studio initial website design](https://github.com/alexjohnives/soundkissstudio/blob/master/assets/images/soundkisswire1.png)
+
+I wanted to lead with the studio logo as hero image, as who doesn't like an eye catching and bold design? A second reason is that this image was used on all of our company business cards, emails and creative output, so immediate brand recognition and reinforcement could be achieved by its inclusion.
+
+I created this site but discovered that actually the Bootstrap accordion as a mainframe was confusing, uninviting and turned out to be frustrating to use.
+
+After discussing this design with my tutor, I decided on a new design.
+
+## Design Mk2
+
+Now much more familiar with Bootstrap architecture having created one site, I decided on a two page design which would meet the project brief.
+
+![Soundkiss Studio draft website design 1](https://github.com/alexjohnives/soundkissstudio/blob/master/assets/images/soundkissdraft2.png)
+
+I made very basic wireframes as you can see, and then scribbled on paper as I worked. I discovered that the main challenge was trying to find images from my archive that would work on the site and fulfil different roles.
+
+For the first page I kept the logo hero image and incorporated some photo media as content links.
+
+For the second I did not have a solution, but then I thought I could utilise icons, which is the solution I used in the final design.
+
+You can see in this wireframe for the about page, I had not quite got there.
+
+![Soundkiss Studio draft website design 2](https://github.com/alexjohnives/soundkissstudio/blob/master/assets/images/soundkissdraft3.png)
+
+
 
 ### Colors
 
@@ -71,7 +107,7 @@ I therefore decided on keeping my design clean and concise. I decided black and 
 
 Favouring opacity changes to show clickable content, I used Cornflower Blue (#6495e) paired with a tetradic pallette related medium Aquamarine (#64edbc) for hover class icons on the about page.
 
-![Tetradic pallette](/Users/alexander/github/Soundkiss/assets/images/tetradic-cornflower.png)
+![Tetradic pallette](https://github.com/alexjohnives/soundkissstudio/blob/master/assets/images/tetradic-cornflower.png?raw=true)
 
 This calm and lively color combination highlights the icons as clickable links.
 
@@ -90,15 +126,21 @@ Utilising bootstrap in the creation of this site I used their newly released Boo
 
 Finding the selection sometimes not suitable, I have also used icons from FontAwesome.
 
-## Images
+##
+
+With a couple of exceptions, all the images utilised in this project belong to me.
+
+When I was still in Taiwan I commissioned Toto Kuo, a photographer friend, to take photos at various points during the evolution of the studio and these I’ve utilised for the included photo media.
+
+Other images include my backstage photo by Sundance Lee, and my on stage concert shot by YC Lin (https://blueballoonstudio.blogspot.com/), who have both previously granted me permission to utilise these for my personal use.
 
 ### Logo
 
-When I first established the studio I commissioned a company logo to be designed by Pia Hsieh, an artist friend. This was based on something I imagined, which is the focused and precise but still vibrant motion a hummingbird draws nectar from a flower.
+When I first established the studio I commissioned a company logo to be designed by Pia Hsieh, an artist friend. This was based on something I imagined, which is the focused and precise but still vibrant motion in which a hummingbird draws nectar from a flower.
 
 Next, imagining sound as a flower emerging from a speaker, there’s the logo! If you hadn’t guessed already, the hummingbird is me and I know Leonard Cohen was also very fond of them as a subject.
 
-![Soundkiss Logo](/Users/alexander/github/soundkissstudio/assets/images/soundkiss.jpg)
+![Soundkiss logo](https://github.com/alexjohnives/soundkissstudio/blob/master/assets/images/soundkiss.jpg)
 
 Since the logo continues to exist on albums and online media that refers to the studio, I wanted to continue using it. Even though now I’d choose a rebrand, it still is distinctive and as a graphic, also provides nice contrast to the website’s photo media.
 
@@ -129,7 +171,7 @@ HTML 5
 CSS
 Javascript (Via Bootstrap)
 
-## Tools and Libraries
+## Tools, Frameworks, Libraries and Programs used
 
 [Atom](https://atom.io): version 1.54 was used as code editor. I cloned my Github repository after some internet issues and pushed most of my work from this environment.
 
@@ -147,9 +189,11 @@ Javascript (Via Bootstrap)
 
 [Git](https://www.gitpod.io)- Was used when contacting student support and for version control.
 
-[Github] (<https://github.com/>)- Used to store the project code pushed from Git
+[Github](https://github.com/)- Used to store the project code pushed from Git.
 
-Apple Preview- Used for photo editing
+Apple Preview- Used for photo
+
+[Procreate](https://procreate.art/)- Was used for creating notes and wireframes on my ipad.
 
 ## Testing
 
@@ -158,11 +202,19 @@ Apple Preview- Used for photo editing
 Html code was tested using the W3C HTML Validator
 [HTML Validator] - (<https://validator.w3.org/>)
 
-NOT YET TESTED
-
 #### HTML Test Errors
 
+Detected errors are shown in the following screenshots:
+
+![HTML result 1](https://github.com/alexjohnives/soundkissstudio/blob/master/assets/images/htmltest1.png)
+![HTML result 2](https://github.com/alexjohnives/soundkissstudio/blob/master/assets/images/htmltest2.png)
+![HTML result 3](https://github.com/alexjohnives/soundkissstudio/blob/master/assets/images/htmltest3.png)
+
 #### HTML Test Fixes
+
+7. Stray end tag div was removed from code.
+
+Html comments were modified.
 
 ### CSS Test
 
@@ -204,10 +256,63 @@ Responsiveness was tested using
 
 ## Deployment
 
+
+The site has been deployed on Github pages. Please use the following link.
+https://alexjohnives.github.io/soundkissstudio/index.html
+
+### GitHub Pages
+
+The project was deployed to GitHub Pages using the following steps...
+
+1. Log in to GitHub and locate the [GitHub Repository](https://github.com/)
+2. At the top of the Repository (not top of page), locate the "Settings" Button on the menu.
+    - Alternatively Click [Here](https://raw.githubusercontent.com/) for a GIF demonstrating the process starting from Step 2.
+3. Scroll down the Settings page until you locate the "GitHub Pages" Section.
+4. Under "Source", click the dropdown called "None" and select "Master Branch".
+5. The page will automatically refresh.
+6. Scroll back down through the page to locate the now published site [link](https://github.com) in the "GitHub Pages" section.
+
+### Forking the GitHub Repository
+
+By forking the GitHub Repository we make a copy of the original repository on our GitHub account to view and/or make changes without affecting the original repository by using the following steps...
+
+1. Log in to GitHub and locate the [GitHub Repository](https://github.com/)
+2. At the top of the Repository (not top of page) just above the "Settings" Button on the menu, locate the "Fork" Button.
+3. You should now have a copy of the original repository in your GitHub account.
+
+### Making a Local Clone
 ## Github Pages
 
+1. Log in to GitHub and locate the [GitHub Repository](https://github.com/)
+2. Under the repository name, click "Clone or download".
+3. To clone the repository using HTTPS, under "Clone with HTTPS", copy the link.
+4. Open Git Bash
+5. Change the current working directory to the location where you want the cloned directory to be made.
+6. Type `git clone`, and then paste the URL you copied in Step 3.
+
+```
+$ git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY
+```
+
+7. Press Enter. Your local clone will be created.
+
+```
+$ git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY
+> Cloning into `CI-Clone`...
+> remote: Counting objects: 10, done.
+> remote: Compressing objects: 100% (8/8), done.
+> remove: Total 10 (delta 1), reused 10 (delta 1)
+> Unpacking objects: 100% (10/10), done.
+```
+
+
+## Content
+-   All content was written by the developer.
+
+## Media
+-   All Images were created by or have been licensed for use by the developer.
 The site has been deployed on Github pages. Please use the following link.
 
 ## Credits
-
-## Special Thanks
+-   Thanks to Johann Alberts and Igor at Codeinstitue Student Support for their guidance on using @media queries
+-   Thank you to my Tutor Reuben Ferrante for his feedback, knowledge and positive guidance. I learnt a great deal from this project and look forward to the next.
