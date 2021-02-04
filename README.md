@@ -22,6 +22,8 @@ The second goal, since much of my personal creative output as a recording engine
 
 As a primarily English speaking musician or creative requiring audio services in Taiwan, when searching online for local options I want to find a service that appears to be both professional and inviting, offers interest grabbing services and actual samples of creative products that appeal to me.
 
+If i was creating this website for real, I would ensure there was a Chinese version of the site to appeal to the local Taiwanese market, however after discussing this with my tutor he suggested it would be beyond the scope of this first project.
+
 ## First Time Visitor
 
 As a First Time Visitor:
@@ -50,41 +52,48 @@ As a Returning and Frequent visitor:
 
 ## Design Choices - Inspirations
 
-Having only ever designed one website prior to this, at the project outset I immediately looked for inspiration online.
+The first and only other website I designed prior to this, was for the studio! I used Rapidweaver back in 2011 and created an ok site, but it disappeared long ago.
 
-[awwwards](https://www.awwwards.com) showcases some incredible designs and one of the few music related sites that resonated with me was [Pias.com](https://www.pias.com/).
+From the project outset I looked for inspiration online for current design practices.
+
+[awwwards](https://www.awwwards.com) showcases some incredible sites and one of the few music related sites that resonated with me was [Pias.com](https://www.pias.com/).
 
 This site employs a classic black and white colour scheme with great images and javascript media.
 
 Although much of the content is way beyond my fledgling skills and the scope of this first project, I was inspired by how the website presented a lot of content on a single page, but managed to keep the design clean and clear.
-I was particularly impressed with the design of their video media player, which I had hoped to draw design impetus from, but it proved a challenge too much for me to begin!
+
+I was particularly impressed with the design of their video media player, which I had hoped to draw design impetus from (ie copy in bootstrap), but it proved a challenge too much for me!
 
 ## Design Choices - Lessons
 
-This site however also demonstrates many sites try to be full of animation and interactive elements, and I decided that for my studio site many of these would be redundant and perhaps to potential clients viewed as trying just a little too hard to impress. The ultimate goal of my website is to promote direct ‘personal’ contact, and i think that too much content is actually overwhelming.
+[Pias.com](https://www.pias.com/) site also reminded me how many 'creative' sites are full of animation and interactive elements, and I decided that for my studio site even if I could use this approach, it would be redundant.
+
+I also thought as a user I would view such a site as trying just a little too hard to impress and fly in the face of the ‘personal’ contact I want the site to encourage. Too much content is actually overwhelming.
 
 ## Design Mk1
 
 From the outset I decided I wanted to use bootstrap in this project, and with the recent release of Bootstrap 5 Beta, I thought I would try the latest version.
 
-Browsing Bootstrap's documentation I decided on a single page design , which I thought I would build using Accordion architecture to allow users. Below is the wireframe for the site.
+Browsing Bootstrap's documentation I decided on a single page design , which I thought I would build using Accordion architecture to allow users to select what content they would like to see. Below is the wireframe for the site.
 
 ![Soundkiss Studio initial website design](https://github.com/alexjohnives/soundkissstudio/blob/master/assets/images/soundkisswire1.png)
 
-I created this site but discovered that actually the Bootstrap accordion was sometimes confusing and turned out to be quite frustrating to use.
+I wanted to lead with the studio logo as hero image, as who doesn't like an eye catching and bold design? A second reason is that this image was used on all of our company business cards, emails and creative output, so immediate brand recognition and reinforcement could be achieved by its inclusion.
+
+I created this site but discovered that actually the Bootstrap accordion as a mainframe was confusing, uninviting and turned out to be frustrating to use.
 
 After discussing this design with my tutor, I decided on a new design.
 
 
 ## Design Mk2
 
-Now much more familiar with Bootstrap architecture, I decided on a two page design which would meet the project brief.
+Now much more familiar with Bootstrap architecture having created one site, I decided on a two page design which would meet the project brief.
 
 ![Soundkiss Studio draft website design 1](https://github.com/alexjohnives/soundkissstudio/blob/master/assets/images/soundkissdraft2.png)
 
 I made very basic wireframes as you can see, and then scribbled on paper as I worked. I discovered that the main challenge was trying to find images from my archive that would work on the site and fulfil different roles.
 
-For the first page I had some artistic shots that I incorporated as content links.
+For the first page I kept the logo hero image and incorporated some photo media as content links.
 
 For the second I did not have a solution, but then I thought I could utilise icons, which is the solution I used in the final design.
 
@@ -93,21 +102,15 @@ You can see in this wireframe for the about page, I had not quite got there.
 ![Soundkiss Studio draft website design 2](https://github.com/alexjohnives/soundkissstudio/blob/master/assets/images/soundkissdraft2.png)
 
 
+### Color scheme
 
-
-
-
-
-### Colors
-
-I decided on keeping my design clean and concise. I decided black and white text and plain backgrounds would provide good contrast to the images and media I would present.
+I decided on keeping my design clean and concise. My wireframes confirmed that using black and white text and plain backgrounds would provide excellent contrast to the images and media I would present.
 
 Favouring opacity changes to show clickable content, I used Cornflower Blue (#6495e) paired with a tetradic pallette related medium Aquamarine (#64edbc) for hover class icons on the about page.
 
-![Tetradic pallette](/Users/alexander/github/Soundkiss/assets/images/tetradic-cornflower.png)
+![Tetradic pallette](https://github.com/alexjohnives/soundkissstudio/blob/master/assets/images/tetradic-cornflower.png)
 
-
-This calm and lively color combination highlights the icons as clickable links.
+This calm blue and fresh green color combination highlights the icons on the about page as clickable links.
 
 ### Typography
 
@@ -116,39 +119,39 @@ This was paired with Roboto, the font family being described by Google as posses
 
  >‘a dual nature. It has a mechanical skeleton and the forms are largely geometric. At the same time, the font features friendly and open curves.’
 
-Science and the personal are at the heart of recording, and as a recommended google pairing this combination seems to fit well. Sans Serif was selected as the fallback font.
+Science and fun cooperation are at the heart of my production approach, and as a recommended google pairing this combination fitted well. Sans Serif was selected as the fallback font.
 
 ### Icons
 
-Utilising bootstrap in the creation of this site I used their newly released Bootstrap Icons v1.2.0 package.
+Utilising bootstrap in the creation of this site I used their newly released ![Bootstrap Icons v1.2.0 package](https://blog.getbootstrap.com/2020/12/11/bootstrap-icons-1-2-0/).
 
-Finding the selection sometimes not suitable, I have also used icons from FontAwesome.
+Finding the selection sometimes not suitable, I have also used icons from ![FontAwesome](https://fontawesome.com/).
 
 
 ## Images
 
+With a couple of exceptions, all the images utilised in this project belong to me.
+
+When I was still in Taiwan I commissioned Toto Kuo, a photographer friend, to take photos at various points during the evolution of the studio and these I’ve utilised for the included photo media.
+
+Other images include my backstage photo by Sundance Lee, and my on stage concert shot by YC Lin (https://blueballoonstudio.blogspot.com/), who have both previously granted me permission to utilise these for my personal use.
+
 ### Logo
 
-When I first established the studio I commissioned a company logo to be designed by Pia Hsieh, an artist friend. This was based on something I imagined, which is the focused and precise but still vibrant motion a hummingbird draws nectar from a flower.
+When I first established the studio I commissioned a company logo to be designed by Pia Hsieh, an artist friend. This was based on something I imagined, which is the focused and precise but still vibrant motion in which a hummingbird draws nectar from a flower.
 
 Next, imagining sound as a flower emerging from a speaker, there’s the logo! If you hadn’t guessed already, the hummingbird is me and I know Leonard Cohen was also very fond of them as a subject.
 
-![Soundkiss Logo](/Users/alexander/github/soundkissstudio/assets/images/soundkiss.jpg)
+![Soundkiss logo](https://github.com/alexjohnives/soundkissstudio/blob/master/assets/images/soundkiss.jpg)
 
-Since the logo continues to exist on albums and online media that refers to the studio, I wanted to continue using it. Even though now I’d choose a rebrand, it still is distinctive and as a graphic, also provides nice contrast to the website’s photo media.
-
-### Photo media
-
-I commissioned Toto Kuo, a photographer friend, to take photos at various points during the evolution of the studio and these I’ve utilised for the included photo media.
-
-Other images include my backstage photo by Sundance Lee, and my on stage concert shot by YC Lin (https://blueballoonstudio.blogspot.com/).
+Since the logo continues to exist on albums and online media that refers to the studio, I wanted to continue using it. Even though now I’d choose a rebrand, it's still a distinctive graphic, and also provides nice contrast to the website’s photo media.
 
 
 ## Visual Hierarchy
 
 This site is designed so that the top area presents representative elements of all the page has to offer, minimising the need for cursory scrolling.
 
-Taking a three step, top down approach,
+Taking a three step, top down approach;
 
 1. The site begins with the Navbar, clearly showing the three pages of the site which are designed for different user interests.
 Home for the unfamiliar browser who wants to find out about the business and what services are offered.
@@ -162,8 +165,8 @@ Contacts for clients who need information immediately or to prepare for visiting
 
 ## Languages Used
 
-HTML 5
-CSS
+[HTML5](https://en.wikipedia.org/wiki/HTML5)
+{CSS](https://en.wikipedia.org/wiki/CSS)
 Javascript (Via Bootstrap)
 
 
@@ -185,9 +188,11 @@ Javascript (Via Bootstrap)
 
 [Git](https://www.gitpod.io)- Was used when contacting student support and for version control.
 
-[Github] (https://github.com/)- Used to store the project code pushed from Git
+[Github](https://github.com/)- Used to store the project code pushed from Git.
 
 Apple Preview- Used for photo editing
+
+[Procreate](https://procreate.art/)- Was used for creating notes and wireframes on my ipad.
 
 
 ##Testing
