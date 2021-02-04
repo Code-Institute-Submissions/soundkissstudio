@@ -8,7 +8,7 @@ Soundkiss recording studio service and legacy page
 
 ## Live Website links
 
-![Soundkss Studio](https://alexjohnives.github.io/soundkissstudio/)
+[Soundkss Studio](https://alexjohnives.github.io/soundkissstudio/)
 
 ## Project goals
 
