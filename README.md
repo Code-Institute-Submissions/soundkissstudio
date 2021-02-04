@@ -99,7 +99,7 @@ For the second I did not have a solution, but then I thought I could utilise ico
 
 You can see in this wireframe for the about page, I had not quite got there.
 
-![Soundkiss Studio draft website design 2](https://github.com/alexjohnives/soundkissstudio/blob/master/assets/images/soundkissdraft2.png)
+![Soundkiss Studio draft website design 2](https://github.com/alexjohnives/soundkissstudio/blob/master/assets/images/soundkissdraft3.png)
 
 
 ### Color scheme
@@ -203,11 +203,20 @@ Apple Preview- Used for photo editing
 Html code was tested using the W3C HTML Validator
 [HTML Validator] - (https://validator.w3.org/)
 
-NOT YET TESTED
-
 #### HTML Test Errors
 
+Detected errors are shown in the following screenshots:
+
+Index
+![HTML result 1](https://github.com/alexjohnives/soundkissstudio/blob/master/assets/images/htmltest1.png)
+![HTML result 2](https://github.com/alexjohnives/soundkissstudio/blob/master/assets/images/htmltest2.png)
+![HTML result 3](https://github.com/alexjohnives/soundkissstudio/blob/master/assets/images/htmltest3.png)
+
 #### HTML Test Fixes
+
+7. Stray end tag div was removed from code.
+
+Other errors relate to commenting in the document and I will leave them for the time being.
 
 
 ### CSS Test
@@ -255,6 +264,9 @@ Responsiveness was tested using
 
 ## Deployment
 
+The site has been deployed on Github pages. Please use the following link.
+https://alexjohnives.github.io/soundkissstudio/index.html
+
 ### GitHub Pages
 
 The project was deployed to GitHub Pages using the following steps...
@@ -300,18 +312,11 @@ $ git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY
 ```
 
 
-
-
-## Github Pages
-
-The site has been deployed on Github pages. Please use the following link.
-https://alexjohnives.github.io/soundkissstudio/index.html
-
 ## Content
 -   All content was written by the developer.
 
 ## Media
--   All Images were created by or licensed for use by the developer.
+-   All Images were created by or have been licensed for use by the developer.
 
 ## Credits
 -   Thanks to Johann Alberts and Igor at Codeinstitue Student Support for their guidance on using @media queries
