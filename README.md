@@ -6,11 +6,9 @@ Soundkiss recording studio service and legacy page
 
 <!--<h2 align="center"><img src="https://i.ibb.co/TYvTXz1/Example-CI.png"></h2>-->
 
-
 ## Live Website links
 
 ![Soundkss Studio](https://alexjohnives.github.io/soundkissstudio/)
-
 
 ## Project goals
 
@@ -60,7 +58,7 @@ Having only ever designed one website prior to this, at the project outset I imm
 
 [awwwards](https://www.awwwards.com) showcases some incredible designs and one of the few music related sites that resonated with me was [Pias.com](https://www.pias.com/).
 
-This site employs a classic black and white colour scheme with great images and javascript media.
+This site employs a classic black(#000000) and white (#FFFFFF) colour scheme with great images and javascript media.
 
 Although much of the content is way beyond my fledgling skills and the scope of this first project, I was inspired by how the website presented a lot of content on a single page, but managed to keep the design clean and clear.
 I was particularly impressed with the design of their video media player, which I had hoped to draw design impetus from, but it proved a challenge too much for me to begin!
@@ -99,8 +97,6 @@ You can see in this wireframe for the about page, I had not quite got there.
 
 ![Soundkiss Studio draft website design 2](https://github.com/alexjohnives/soundkissstudio/blob/master/assets/images/soundkissdraft3.png)
 
-
-
 ### Colors
 
 I therefore decided on keeping my design clean and concise. I decided black and white text and plain backgrounds would provide good contrast to the images and media I would present.
@@ -126,13 +122,13 @@ Utilising bootstrap in the creation of this site I used their newly released Boo
 
 Finding the selection sometimes not suitable, I have also used icons from FontAwesome.
 
-##
+## Images and Photo Media
 
 With a couple of exceptions, all the images utilised in this project belong to me.
 
 When I was still in Taiwan I commissioned Toto Kuo, a photographer friend, to take photos at various points during the evolution of the studio and these I’ve utilised for the included photo media.
 
-Other images include my backstage photo by Sundance Lee, and my on stage concert shot by YC Lin (https://blueballoonstudio.blogspot.com/), who have both previously granted me permission to utilise these for my personal use.
+Other images include my backstage photo by Sundance Lee, and my on stage concert shot by YC Lin (<https://blueballoonstudio.blogspot.com/>), who have both previously granted me permission to utilise these for my personal use.
 
 ### Logo
 
@@ -212,9 +208,9 @@ Detected errors are shown in the following screenshots:
 
 #### HTML Test Fixes
 
-7. Stray end tag div was removed from code.
+1.Stray end tag div was removed from code.
 
-Html comments were modified.
+2.Html comments were modified.
 
 ### CSS Test
 
@@ -256,9 +252,8 @@ Responsiveness was tested using
 
 ## Deployment
 
-
 The site has been deployed on Github pages. Please use the following link.
-https://alexjohnives.github.io/soundkissstudio/index.html
+<https://alexjohnives.github.io/soundkissstudio/index.html>
 
 ### GitHub Pages
 
@@ -281,6 +276,7 @@ By forking the GitHub Repository we make a copy of the original repository on ou
 3. You should now have a copy of the original repository in your GitHub account.
 
 ### Making a Local Clone
+
 ## Github Pages
 
 1. Log in to GitHub and locate the [GitHub Repository](https://github.com/)
@@ -291,7 +287,7 @@ By forking the GitHub Repository we make a copy of the original repository on ou
 6. Type `git clone`, and then paste the URL you copied in Step 3.
 
 ```
-$ git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY
+git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY
 ```
 
 7. Press Enter. Your local clone will be created.
@@ -305,14 +301,16 @@ $ git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY
 > Unpacking objects: 100% (10/10), done.
 ```
 
-
 ## Content
--   All content was written by the developer.
+
+- All content was written by the developer.
 
 ## Media
--   All Images were created by or have been licensed for use by the developer.
+
+- All Images were created by or have been licensed for use by the developer.
 The site has been deployed on Github pages. Please use the following link.
 
 ## Credits
--   Thanks to Johann Alberts and Igor at Codeinstitue Student Support for their guidance on using @media queries
--   Thank you to my Tutor Reuben Ferrante for his feedback, knowledge and positive guidance. I learnt a great deal from this project and look forward to the next.
+
+- Thanks to Johann Alberts and Igor at Codeinstitue Student Support for their guidance on using @media queries
+- Thank you to my Tutor Reuben Ferrante for his feedback, knowledge and positive guidance. I learnt a great deal from this project and look forward to the next.
