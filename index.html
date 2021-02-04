@@ -225,6 +225,30 @@
     </div>
   </section>
   -->
+  <!--SOURCE: Used Bootstrap example nav bar then customised. Fixed bottom class discovered here https://stackoverflow.com/questions/19330611/fixed-footer-in-bootstrap -->
+    <hr>
+    <section id="contact-us-form" class="pb-5">
+        <div class="container">
+            <a id="contact"><h2 class="text-center">Give us a shout!</h2></a>
+            <br>
+            <form>
+                <div class="mb-3">
+                    <label for="emailaddress-input" class="form-label">Email address</label>
+                    <input type="email" class="form-control" id="emailaddress-input" aria-describedby="emailHelp" required>
+                    <div id="emailHelp" class="form-text">We'll never share your email with anyone else.</div>
+                </div>
+                <div class="mb-3">
+                    <label for="query-textarea" class="form-label">Query</label>
+                    <textarea class="form-control" id="query-textarea" required></textarea>
+                </div>
+                <div class="mb-3 form-check">
+                    <label class="form-check-label" for="not-a-robot-check">I'm not a robot</label>
+                    <input type="checkbox" class="form-check-input" id="not-a-robot-check" required>
+                </div>
+                <button type="submit" class="btn btn-primary">Submit</button>
+            </form>
+        </div>
+    </section>
 
 
 
@@ -234,7 +258,7 @@
 
         <div class="p-2 bd-highlight"><a href="tel:+16476578387" data-bs-toggle="tooltip" data-placement="top" title="Phone us"><i class="bi bi-telephone text-white"></i></a></div>
         <div class="p-2 bd-highlight"><a href="台北市中山北路二段27巷14號6樓" data-bs-toggle="tooltip" data-placement="top" title="Studio location"><i class="bi bi-house text-white"></i></a></div>
-        <div class="p-2 bd-highlight"><a href="mailto:soundkisstw@gmail.com" data-bs-toggle="tooltip" data-placement="top" title="Email us"><i class="bi bi-envelope text-white"></i></a></div>
+        <div class="p-2 bd-highlight"><a href="contact" data-bs-toggle="tooltip" data-placement="top" title="Email us"><i class="bi bi-envelope text-white"></i></a></div>
 
         <div class="ms-auto p-2 bd-highlight">
           <a href="#" data-bs-toggle="tooltip" data-placement="top" title="Back to top">
