@@ -1,8 +1,8 @@
 # Soundkiss Studio
+Soundkiss recording studio and legacy webpage for a studio facility I established in Taipei Taiwan.
 
 ![Soundkiss Logo](https://github.com/alexjohnives/soundkissstudio/blob/master/assets/images/soundkiss.jpg)
 
-Soundkiss recording studio service and legacy page
 
 ## Project goals
 
@@ -10,11 +10,9 @@ The goal of this project website is to create a web page for the recording studi
 
 With this actual business in mind, I have three goals in mind for this project.
 
-The first is to create a sample webpage that details all of the services the studio offered to potential clients. For this I imagined a clear and concise site that would sell our services and inspire potential clients to make contact.
+The first is to create a webpage that details all of the services the studio offered to potential clients. For this I imagined a clear and concise single page that would sell our services and inspire potential clients to make contact.
 
-The second goal, since much of my personal creative output as a recording engineer and producer stems from my time working at Soundkiss, was to create an about page that showcases some of the creative product I helped to create.
-
-Thirdly, I hoped that when I create a personal webpage, I would be able to integrate this site as record of the studio.
+The second goal, since much of my personal creative output as a recording engineer and producer stems from my time working at Soundkiss, was to create an about page that showcases some of the creative product and media from that time.
 
 ## User Experience (UX)
 
