@@ -8,6 +8,8 @@ Soundkiss recording studio and legacy webpage for a studio facility I establishe
 
 The goal of this project website is to create a web page for the recording studio I used to run in Taipei, Taiwan ROC, named Soundkiss.
 
+![Soundkiss logo](https://github.com/alexjohnives/soundkissstudio/blob/master/assets/images/soundkiss.jpg)
+
 With this actual business in mind, I have three goals in mind for this project.
 
 The first is to create a webpage that details all of the services the studio offered to potential clients. For this I imagined a clear and concise single page that would sell our services and inspire potential clients to make contact.
