@@ -140,12 +140,6 @@ Next, imagining sound as a flower emerging from a speaker, there’s the logo! I
 
 Since the logo continues to exist on albums and online media that refers to the studio, I wanted to continue using it. Even though now I’d choose a rebrand, it still is distinctive and as a graphic, also provides nice contrast to the website’s photo media.
 
-### Photo media
-
-I commissioned Toto Kuo, a photographer friend, to take photos at various points during the evolution of the studio and these I’ve utilised for the included photo media.
-
-Other images include my backstage photo by Sundance Lee, and my on stage concert shot by YC Lin (<https://blueballoonstudio.blogspot.com/>).
-
 ## Visual Hierarchy
 
 This site is designed so that the top area presents representative elements of all the page has to offer, minimising the need for cursory scrolling.
@@ -163,7 +157,7 @@ Contacts for clients who need information immediately or to prepare for visiting
 
 ## Languages Used
 
-HTML 5
+HTML5
 CSS
 Javascript (Via Bootstrap)
 
@@ -218,23 +212,34 @@ CSS was tested using the W3C CSS Validator Services
 
 [CSS Validator] - (<https://jigsaw.w3.org/css-validator>)
 
-NOT YET TESTED
-
 #### CSS Test Errors
+
+![CSS result 1](https://github.com/alexjohnives/soundkissstudio/blob/master/assets/images/cssvalresult1.png)
+
+![CSS result 2](https://github.com/alexjohnives/soundkissstudio/blob/master/assets/images/cssvalresult2.png)
+
+#### CSS Test Error Fixes
+
+I discussed these errors with my tutor and they are bootstrap related. I have therefore not corrected anything.
 
 #### CSS Test Warnings
 
-#### CSS Test Fixes
+![CSS result 3](https://github.com/alexjohnives/soundkissstudio/blob/master/assets/images/csswarning.png)
+
+#### CSS Test Warning Fixes
+
+I discussed these warnings with my tutor and he recommended that I remove the animation classes if I wanted the warnings gone. These animations however are important for the presentation of the site and at this time I will leave them in with the hope that I can understand going forward what better approaches may exist regarding using CSS animations.
 
 ### Accessibility Testing
 
 Google lighthouse and Wave Web Accessibility Evaluation Tool were used to test the site’s accessibility
 
-(<https://developers.google.com/web/tools/lighthouse>)
+[Google Lighthouse](<https://developers.google.com/web/tools/lighthouse>)
 
-(<https://wave.webaim.org/>)
+[Wave](<https://wave.webaim.org/>)
 
-Issues?
+
+![Wave Results](https://github.com/alexjohnives/soundkissstudio/blob/master/assets/images/csswarning.png)
 
 ### Responsiveness Testing
 
