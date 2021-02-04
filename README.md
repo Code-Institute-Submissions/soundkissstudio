@@ -1,7 +1,7 @@
 # Soundkiss Studio
 Soundkiss recording studio and legacy webpage for a studio facility I established in Taipei Taiwan.
 
-![Soundkiss Logo](https://github.com/alexjohnives/soundkissstudio/blob/master/assets/images/soundkiss.jpg)
+![Website shown on different display sizes](https://github.com/alexjohnives/soundkissstudio/blob/master/assets/images/soundkissresponsivedisplay.png)
 
 
 ## Project goals
