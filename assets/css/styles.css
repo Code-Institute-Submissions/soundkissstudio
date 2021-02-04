@@ -224,9 +224,6 @@ animation: fadeIn ease 5s;
   color: #64edbc;
 }
 
-.fa-icons-size {
-  font-size: 70px;
-}
 
 /* About images */
 
@@ -246,6 +243,11 @@ animation: fadeIn ease 5s;
 }
 
 .img-formosa {
+  max-width: 80vw;
+  max-height: 80vh;
+}
+
+.img-inka {
   max-width: 80vw;
   max-height: 80vh;
 }
