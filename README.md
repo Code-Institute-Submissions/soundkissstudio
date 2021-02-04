@@ -1,43 +1,42 @@
 # Soundkiss Studio
-Soundkiss recording studio and legacy webpage for a studio facility I established in Taipei Taiwan.
 
-![Website shown on different display sizes](https://github.com/alexjohnives/soundkissstudio/blob/master/assets/images/soundkissresponsivedisplay.png)
+![Soundkiss Logo](/Users/alexander/github/soundkissstudio/assets/images/soundkiss.jpg)
 
+<!--<h2 align="center"><img src="https://i.ibb.co/TYvTXz1/Example-CI.png"></h2>-->
+
+Soundkiss recording studio service and legacy page
 
 ## Project goals
 
 The goal of this project website is to create a web page for the recording studio I used to run in Taipei, Taiwan ROC, named Soundkiss.
 
-![Soundkiss logo](https://github.com/alexjohnives/soundkissstudio/blob/master/assets/images/soundkiss.jpg)
-
 With this actual business in mind, I have three goals in mind for this project.
 
-The first is to create a webpage that details all of the services the studio offered to potential clients. For this I imagined a clear and concise single page that would sell our services and inspire potential clients to make contact.
+The first is to create a sample webpage that details all of the services the studio offered to potential clients. For this I imagined a clear and concise site that would sell our services and inspire potential clients to make contact.
 
-The second goal, since much of my personal creative output as a recording engineer and producer stems from my time working at Soundkiss, was to create an about page that showcases some of the creative product and media from that time.
+The second goal, since much of my personal creative output as a recording engineer and producer stems from my time working at Soundkiss, was to create an about page that showcases some of the creative product I helped to create.
+
+Thirdly, I hoped that when I create a personal webpage, I would be able to integrate this site as record of the studio.
 
 ## User Experience (UX)
 
 ### User stories
 
-As a primarily English speaking musician or creative requiring audio services in Taiwan, when searching online for local options I want to find a service that appears to be both professional and inviting, offers interest grabbing services and actual samples of creative products that appeal to me.
-
-If i was creating this website for real, I would ensure there was a Chinese version of the site to appeal to the local Taiwanese market, however after discussing this with my tutor he suggested it would be beyond the scope of this first project.
+As a primarily English speaking musician or creative requiring audio services in Taiwan, when searching online for local options I want to see somewhere that is shown to be both professional and inviting, offers interest grabbing services and actual samples of creative products that appeal to me.
 
 ## First Time Visitor
 
 As a First Time Visitor:
 
-1. I want my first impression of the site's design to be positive and the site to instil a sense of professionalism, creativity and energy. 
+1. I want my first impression of the site's design to be positive and the site to instil a sense of professionalism, creativity and energy.
 
-2. I want to be reassured that this company and site are trustworthy and credible. 
+2. I want to be reassured that this company and site are trustworthy and credible.
 
-3. I want to easily understand the services being provided and how I can contact the studio management if I have questions. 
+3. I want to easily understand the services being provided and how I can contact the studio management if I have questions.
 
 4. I want to see examples of the creative output of other artists who have used the facility.
 
 5. I want my curiosity to be fired enough to want to make contact and enquire about next steps of engagement.
-
 
 ## Returning and Frequent Visitor requirements and expectations
 
@@ -49,68 +48,32 @@ As a Returning and Frequent visitor:
 
 3. See the latest equipment and services on offer.
 
-
 ## Design Choices - Inspirations
 
-The first and only other website I designed prior to this, was for the studio! I used Rapidweaver back in 2011 and created an ok site, but it disappeared long ago.
+Having only ever designed one website prior to this, at the project outset I immediately looked for inspiration online.
 
-From the project outset I looked for inspiration online for current design practices.
-
-[awwwards](https://www.awwwards.com) showcases some incredible sites and one of the few music related sites that resonated with me was [Pias.com](https://www.pias.com/).
+[awwwards](https://www.awwwards.com) showcases some incredible designs and one of the few music related sites that resonated with me was [Pias.com](https://www.pias.com/).
 
 This site employs a classic black and white colour scheme with great images and javascript media.
 
 Although much of the content is way beyond my fledgling skills and the scope of this first project, I was inspired by how the website presented a lot of content on a single page, but managed to keep the design clean and clear.
-
-I was particularly impressed with the design of their video media player, which I had hoped to draw design impetus from (ie copy in bootstrap), but it proved a challenge too much for me!
+I was particularly impressed with the design of their video media player, which I had hoped to draw design impetus from, but it proved a challenge too much for me to begin!
 
 ## Design Choices - Lessons
 
-[Pias.com](https://www.pias.com/) site also reminded me how many 'creative' sites are full of animation and interactive elements, and I decided that for my studio site even if I could use this approach, it would be redundant.
+This site however also demonstrates many sites try to be full of animation and interactive elements, and I decided that for my studio site many of these would be redundant and perhaps viewed as trying just a little too hard to impress. The ultimate goal of my website is to promote direct ‘personal’ contact, and if anything too much detail feels quite impersonal and overwhelming, which I wanted to avoid.
 
-I also thought as a user I would view such a site as trying just a little too hard to impress and fly in the face of the ‘personal’ contact I want the site to encourage. Too much content is actually overwhelming.
+## Design
 
-## Design Mk1
+### Colors
 
-From the outset I decided I wanted to use bootstrap in this project, and with the recent release of Bootstrap 5 Beta, I thought I would try the latest version.
-
-Browsing Bootstrap's documentation I decided on a single page design , which I thought I would build using Accordion architecture to allow users to select what content they would like to see. Below is the wireframe for the site.
-
-![Soundkiss Studio initial website design](https://github.com/alexjohnives/soundkissstudio/blob/master/assets/images/soundkisswire1.png)
-
-I wanted to lead with the studio logo as hero image, as who doesn't like an eye catching and bold design? A second reason is that this image was used on all of our company business cards, emails and creative output, so immediate brand recognition and reinforcement could be achieved by its inclusion.
-
-I created this site but discovered that actually the Bootstrap accordion as a mainframe was confusing, uninviting and turned out to be frustrating to use.
-
-After discussing this design with my tutor, I decided on a new design.
-
-
-## Design Mk2
-
-Now much more familiar with Bootstrap architecture having created one site, I decided on a two page design which would meet the project brief.
-
-![Soundkiss Studio draft website design 1](https://github.com/alexjohnives/soundkissstudio/blob/master/assets/images/soundkissdraft2.png)
-
-I made very basic wireframes as you can see, and then scribbled on paper as I worked. I discovered that the main challenge was trying to find images from my archive that would work on the site and fulfil different roles.
-
-For the first page I kept the logo hero image and incorporated some photo media as content links.
-
-For the second I did not have a solution, but then I thought I could utilise icons, which is the solution I used in the final design.
-
-You can see in this wireframe for the about page, I had not quite got there.
-
-![Soundkiss Studio draft website design 2](https://github.com/alexjohnives/soundkissstudio/blob/master/assets/images/soundkissdraft3.png)
-
-
-### Color scheme
-
-I decided on keeping my design clean and concise. My wireframes confirmed that using black and white text and plain backgrounds would provide excellent contrast to the images and media I would present.
+I therefore decided on keeping my design clean and concise. I decided black and white text and plain backgrounds would provide good contrast to the images and media I would present.
 
 Favouring opacity changes to show clickable content, I used Cornflower Blue (#6495e) paired with a tetradic pallette related medium Aquamarine (#64edbc) for hover class icons on the about page.
 
-![Tetradic pallette](https://github.com/alexjohnives/soundkissstudio/blob/master/assets/images/tetradic-cornflower.png)
+![Tetradic pallette](/Users/alexander/github/Soundkiss/assets/images/tetradic-cornflower.png)
 
-This calm blue and fresh green color combination highlights the icons on the about page as clickable links.
+This calm and lively color combination highlights the icons as clickable links.
 
 ### Typography
 
@@ -119,39 +82,37 @@ This was paired with Roboto, the font family being described by Google as posses
 
  >‘a dual nature. It has a mechanical skeleton and the forms are largely geometric. At the same time, the font features friendly and open curves.’
 
-Science and fun cooperation are at the heart of my production approach, and as a recommended google pairing this combination fitted well. Sans Serif was selected as the fallback font.
+Science and the personal are at the heart of recording, and as a recommended google pairing this combination seems to fit well. Sans Serif was selected as the fallback font.
 
 ### Icons
 
-Utilising bootstrap in the creation of this site I used their newly released [Bootstrap Icons v1.2.0 package](https://blog.getbootstrap.com/2020/12/11/bootstrap-icons-1-2-0/).
+Utilising bootstrap in the creation of this site I used their newly released Bootstrap Icons v1.2.0 package.
 
-Finding the selection sometimes not suitable, I have also used icons from [FontAwesome](https://fontawesome.com/).
-
+Finding the selection sometimes not suitable, I have also used icons from FontAwesome.
 
 ## Images
 
-With a couple of exceptions, all the images utilised in this project belong to me.
-
-When I was still in Taiwan I commissioned Toto Kuo, a photographer friend, to take photos at various points during the evolution of the studio and these I’ve utilised for the included photo media.
-
-Other images include my backstage photo by Sundance Lee, and my on stage concert shot by YC Lin (https://blueballoonstudio.blogspot.com/), who have both previously granted me permission to utilise these for my personal use.
-
 ### Logo
 
-When I first established the studio I commissioned a company logo to be designed by Pia Hsieh, an artist friend. This was based on something I imagined, which is the focused and precise but still vibrant motion in which a hummingbird draws nectar from a flower.
+When I first established the studio I commissioned a company logo to be designed by Pia Hsieh, an artist friend. This was based on something I imagined, which is the focused and precise but still vibrant motion a hummingbird draws nectar from a flower.
 
 Next, imagining sound as a flower emerging from a speaker, there’s the logo! If you hadn’t guessed already, the hummingbird is me and I know Leonard Cohen was also very fond of them as a subject.
 
-![Soundkiss logo](https://github.com/alexjohnives/soundkissstudio/blob/master/assets/images/soundkiss.jpg)
+![Soundkiss Logo](/Users/alexander/github/soundkissstudio/assets/images/soundkiss.jpg)
 
-Since the logo continues to exist on albums and online media that refers to the studio, I wanted to continue using it. Even though now I’d choose a rebrand, it's still a distinctive graphic, and also provides nice contrast to the website’s photo media.
+Since the logo continues to exist on albums and online media that refers to the studio, I wanted to continue using it. Even though now I’d choose a rebrand, it still is distinctive and as a graphic, also provides nice contrast to the website’s photo media.
 
+### Photo media
+
+I commissioned Toto Kuo, a photographer friend, to take photos at various points during the evolution of the studio and these I’ve utilised for the included photo media.
+
+Other images include my backstage photo by Sundance Lee, and my on stage concert shot by YC Lin (<https://blueballoonstudio.blogspot.com/>).
 
 ## Visual Hierarchy
 
 This site is designed so that the top area presents representative elements of all the page has to offer, minimising the need for cursory scrolling.
 
-Taking a three step, top down approach;
+Taking a three step, top down approach,
 
 1. The site begins with the Navbar, clearly showing the three pages of the site which are designed for different user interests.
 Home for the unfamiliar browser who wants to find out about the business and what services are offered.
@@ -162,15 +123,13 @@ Contacts for clients who need information immediately or to prepare for visiting
 
 3. Contact links are provided via the fixed footer to facilitate contact.
 
-
 ## Languages Used
 
-[HTML5](https://en.wikipedia.org/wiki/HTML5)
+HTML 5
+CSS
+Javascript (Via Bootstrap)
 
-[CSS](https://en.wikipedia.org/wiki/CSS)
-
-
-# Tools, Frameworks, Libraries and Programs used
+## Tools and Libraries
 
 [Atom](https://atom.io): version 1.54 was used as code editor. I cloned my Github repository after some internet issues and pushed most of my work from this environment.
 
@@ -188,41 +147,28 @@ Contacts for clients who need information immediately or to prepare for visiting
 
 [Git](https://www.gitpod.io)- Was used when contacting student support and for version control.
 
-[Github](https://github.com/)- Used to store the project code pushed from Git.
+[Github] (<https://github.com/>)- Used to store the project code pushed from Git
 
 Apple Preview- Used for photo editing
 
-[Procreate](https://procreate.art/)- Was used for creating notes and wireframes on my ipad.
-
-
-##Testing
+## Testing
 
 ### HTML Test
 
 Html code was tested using the W3C HTML Validator
-[HTML Validator] - (https://validator.w3.org/)
+[HTML Validator] - (<https://validator.w3.org/>)
+
+NOT YET TESTED
 
 #### HTML Test Errors
 
-Detected errors are shown in the following screenshots:
-
-Index
-![HTML result 1](https://github.com/alexjohnives/soundkissstudio/blob/master/assets/images/htmltest1.png)
-![HTML result 2](https://github.com/alexjohnives/soundkissstudio/blob/master/assets/images/htmltest2.png)
-![HTML result 3](https://github.com/alexjohnives/soundkissstudio/blob/master/assets/images/htmltest3.png)
-
 #### HTML Test Fixes
-
-7. Stray end tag div was removed from code.
-
-Other errors relate to commenting in the document and I will leave them for the time being.
-
 
 ### CSS Test
 
 CSS was tested using the W3C CSS Validator Services
 
-[CSS Validator] - (https://jigsaw.w3.org/css-validator)
+[CSS Validator] - (<https://jigsaw.w3.org/css-validator>)
 
 NOT YET TESTED
 
@@ -232,93 +178,36 @@ NOT YET TESTED
 
 #### CSS Test Fixes
 
-
 ### Accessibility Testing
 
 Google lighthouse and Wave Web Accessibility Evaluation Tool were used to test the site’s accessibility
 
-(https://developers.google.com/web/tools/lighthouse)
+(<https://developers.google.com/web/tools/lighthouse>)
 
-(https://wave.webaim.org/)
+(<https://wave.webaim.org/>)
 
 Issues?
-
 
 ### Responsiveness Testing
 
 Responsiveness was tested using
 
-(https://www.responsinator.com/)
+(<https://www.responsinator.com/>)
 
-(https://developers.google.com/web/tools/chrome-devtools/device-mode)
+(<https://developers.google.com/web/tools/chrome-devtools/device-mode>)
 
-(https://search.google.com/test/mobile-friendly)
-
+(<https://search.google.com/test/mobile-friendly>)
 
 ## Bugs
 
-
 ## Known Bugs
-
 
 ## Deployment
 
+## Github Pages
+
 The site has been deployed on Github pages. Please use the following link.
-https://alexjohnives.github.io/soundkissstudio/index.html
-
-### GitHub Pages
-
-The project was deployed to GitHub Pages using the following steps...
-
-1. Log in to GitHub and locate the [GitHub Repository](https://github.com/)
-2. At the top of the Repository (not top of page), locate the "Settings" Button on the menu.
-    - Alternatively Click [Here](https://raw.githubusercontent.com/) for a GIF demonstrating the process starting from Step 2.
-3. Scroll down the Settings page until you locate the "GitHub Pages" Section.
-4. Under "Source", click the dropdown called "None" and select "Master Branch".
-5. The page will automatically refresh.
-6. Scroll back down through the page to locate the now published site [link](https://github.com) in the "GitHub Pages" section.
-
-### Forking the GitHub Repository
-
-By forking the GitHub Repository we make a copy of the original repository on our GitHub account to view and/or make changes without affecting the original repository by using the following steps...
-
-1. Log in to GitHub and locate the [GitHub Repository](https://github.com/)
-2. At the top of the Repository (not top of page) just above the "Settings" Button on the menu, locate the "Fork" Button.
-3. You should now have a copy of the original repository in your GitHub account.
-
-### Making a Local Clone
-
-1. Log in to GitHub and locate the [GitHub Repository](https://github.com/)
-2. Under the repository name, click "Clone or download".
-3. To clone the repository using HTTPS, under "Clone with HTTPS", copy the link.
-4. Open Git Bash
-5. Change the current working directory to the location where you want the cloned directory to be made.
-6. Type `git clone`, and then paste the URL you copied in Step 3.
-
-```
-$ git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY
-```
-
-7. Press Enter. Your local clone will be created.
-
-```
-$ git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY
-> Cloning into `CI-Clone`...
-> remote: Counting objects: 10, done.
-> remote: Compressing objects: 100% (8/8), done.
-> remove: Total 10 (delta 1), reused 10 (delta 1)
-> Unpacking objects: 100% (10/10), done.
-```
-
-
-## Content
--   All content was written by the developer.
-
-## Media
--   All Images were created by or have been licensed for use by the developer.
 
 ## Credits
--   Thanks to Johann Alberts and Igor at Codeinstitue Student Support for their guidance on using @media queries
--   Thank you to my Tutor Reuben Ferrante for his feedback, knowledge and positive guidance. I learnt a great deal from this project and look forward to the next.
 
 ## Special Thanks
