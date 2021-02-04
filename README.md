@@ -230,7 +230,7 @@ I discussed these errors with my tutor and they are bootstrap related. I have th
 
 I discussed these warnings with my tutor and he recommended that I remove the animation classes if I wanted the warnings gone. These animations however are important for the presentation of the site and at this time I will leave them in with the hope that I can understand going forward what better approaches may exist regarding using CSS animations.
 
-### Accessibility Testing
+## Accessibility Testing
 
 Google lighthouse and Wave Web Accessibility Evaluation Tool were used to test the site’s accessibility
 
@@ -267,6 +267,7 @@ about.html
 2. 2 X Suspicious link text
 3. 1 X Redundant link
 4. 9 X YouTube video
+5. 3 x contrast errors
 
 #### WAVE Test Fixes
 
@@ -279,6 +280,22 @@ about.html
 2. Text for links was changed from 'here' to more descriptive titles as suggested
 3. The redundant link refers to the Home tab in the navbar. I have left this.
 4. The Youtube video links are required to have video captions. At this time I have left this but where possible I will see if Youtube's automatic Closed captions can be applied.
+5. The contrast errors refer to the top of page icons, stating they do not contrast enough against the background. These I have also chosen to leave, but will be more informed about my choices of colour for visually impaired users going forward.
+
+
+### Accessibility Test results - Google Lighthouse
+
+####Mobile
+
+![Google Lighthouse Results for index.html](https://github.com/alexjohnives/soundkissstudio/blob/master/assets/images/lighthouseindex.png)
+
+![Google Lighthouse Results for about.html](https://github.com/alexjohnives/soundkissstudio/blob/master/assets/images/lighthouseabout.png)
+
+####Desktop
+
+![Google Lighthouse Results for index.html](https://github.com/alexjohnives/soundkissstudio/blob/master/assets/images/lighthousedesktopindex.png)
+
+![Google Lighthouse Results for index.html](https://github.com/alexjohnives/soundkissstudio/blob/master/assets/images/lighthousedesktopabout.png)
 
 
 
