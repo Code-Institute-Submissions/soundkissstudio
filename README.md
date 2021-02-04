@@ -319,6 +319,6 @@ $ git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY
 
 ## Credits
 -   Thanks to Johann Alberts and Igor at Codeinstitue Student Support for their guidance on using @media queries
--   Thank you to my Tutor Reuben Ferrante for his both critical feedback, knowledge and positive guidance. I learnt a great deal from this project and look forward to the next.
+-   Thank you to my Tutor Reuben Ferrante for his feedback, knowledge and positive guidance. I learnt a great deal from this project and look forward to the next.
 
 ## Special Thanks
