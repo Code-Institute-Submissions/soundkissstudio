@@ -315,13 +315,29 @@ Reviewing all catagories, consistently it is the mixed image sizing that causes 
 
 ### Responsiveness Testing
 
-Responsiveness was tested using
+Responsiveness was tested using first:
 
-(<https://www.responsinator.com/>)
+[Responsinator](<https://www.responsinator.com/>)
 
-(<https://developers.google.com/web/tools/chrome-devtools/device-mode>)
+The results proved strange, showing multiple additional elements across several devices.
+
+![Responsinator Results for index.html](https://github.com/alexjohnives/soundkissstudio/blob/master/assets/images/responseresults.png)
+
+These results were cross checked using
 
 (<https://search.google.com/test/mobile-friendly>)
+
+The results also appeared strange
+
+![Results](https://search.google.com/test/mobile-friendly?id=GaKyehdc15X3VtJssGKh-w)
+
+Finally I returned to Google Device mode
+
+[Google Device Mode](<https://developers.google.com/web/tools/chrome-devtools/device-mode>)
+
+I used this throughout development and had no issues last time I check responsiveness. However I did this time. The index.html page is displaying incorrectly but about.html is not. I crosschecked about and index footer code.
+
+
 
 ## Bugs
 
