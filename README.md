@@ -123,9 +123,9 @@ Science and fun cooperation are at the heart of my production approach, and as a
 
 ### Icons
 
-Utilising bootstrap in the creation of this site I used their newly released ![Bootstrap Icons v1.2.0 package](https://blog.getbootstrap.com/2020/12/11/bootstrap-icons-1-2-0/).
+Utilising bootstrap in the creation of this site I used their newly released [Bootstrap Icons v1.2.0 package](https://blog.getbootstrap.com/2020/12/11/bootstrap-icons-1-2-0/).
 
-Finding the selection sometimes not suitable, I have also used icons from ![FontAwesome](https://fontawesome.com/).
+Finding the selection sometimes not suitable, I have also used icons from [FontAwesome](https://fontawesome.com/).
 
 
 ## Images
@@ -166,9 +166,8 @@ Contacts for clients who need information immediately or to prepare for visiting
 ## Languages Used
 
 [HTML5](https://en.wikipedia.org/wiki/HTML5)
+
 [CSS](https://en.wikipedia.org/wiki/CSS)
-
-
 
 
 # Tools, Frameworks, Libraries and Programs used
