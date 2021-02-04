@@ -61,20 +61,44 @@ I was particularly impressed with the design of their video media player, which 
 
 This site however also demonstrates many sites try to be full of animation and interactive elements, and I decided that for my studio site many of these would be redundant and perhaps to potential clients viewed as trying just a little too hard to impress. The ultimate goal of my website is to promote direct ‘personal’ contact, and i think that too much content is actually overwhelming.
 
-## Design
+## Design Mk1
 
 From the outset I decided I wanted to use bootstrap in this project, and with the recent release of Bootstrap 5 Beta, I thought I would try the latest version.
 
-Browsing Bootstrap's documentation I decided on a single page design at the outset, which I thought I would build using Accordion architecture. Below is the wireframe for how I envisioned the site.
+Browsing Bootstrap's documentation I decided on a single page design , which I thought I would build using Accordion architecture to allow users. Below is the wireframe for the site.
 
 ![Soundkiss Studio initial website design](https://github.com/alexjohnives/soundkissstudio/blob/master/assets/images/soundkisswire1.png)
+
+I created this site but discovered that actually the Bootstrap accordion was sometimes confusing and turned out to be quite frustrating to use.
+
+After discussing this design with my tutor, I decided on a new design.
+
+
+## Design Mk2
+
+Now much more familiar with Bootstrap architecture, I decided on a two page design which would meet the project brief.
+
+![Soundkiss Studio draft website design 1](https://github.com/alexjohnives/soundkissstudio/blob/master/assets/images/soundkissdraft2.png)
+
+I made very basic wireframes as you can see, and then scribbled on paper as I worked. I discovered that the main challenge was trying to find images from my archive that would work on the site and fulfil different roles.
+
+For the first page I had some artistic shots that I incorporated as content links.
+
+For the second I did not have a solution, but then I thought I could utilise icons, which is the solution I used in the final design.
+
+You can see in this wireframe for the about page, I had not quite got there.
+
+![Soundkiss Studio draft website design 2](https://github.com/alexjohnives/soundkissstudio/blob/master/assets/images/soundkissdraft2.png)
+
+
+
 
 
 
 
 ### Colors
 
-I therefore decided on keeping my design clean and concise. I decided black and white text and plain backgrounds would provide good contrast to the images and media I would present.
+I decided on keeping my design clean and concise. I decided black and white text and plain backgrounds would provide good contrast to the images and media I would present.
 
 Favouring opacity changes to show clickable content, I used Cornflower Blue (#6495e) paired with a tetradic pallette related medium Aquamarine (#64edbc) for hover class icons on the about page.
 
