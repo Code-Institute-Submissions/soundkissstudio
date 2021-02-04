@@ -1,6 +1,6 @@
 # Soundkiss Studio
 
-![Soundkiss Logo](/Users/alexander/github/soundkissstudio/assets/images/soundkiss.jpg)
+![Soundkiss Logo](https://github.com/alexjohnives/soundkissstudio/blob/master/assets/images/soundkiss.jpg)
 
 Soundkiss recording studio service and legacy page
 
