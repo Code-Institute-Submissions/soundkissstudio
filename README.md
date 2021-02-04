@@ -6,7 +6,7 @@ Soundkiss recording studio service and legacy page
 
 <!--<h2 align="center"><img src="https://i.ibb.co/TYvTXz1/Example-CI.png"></h2>-->
 
-## Live Website links
+## Live Website link
 
 [Soundkss Studio](https://alexjohnives.github.io/soundkissstudio/)
 
