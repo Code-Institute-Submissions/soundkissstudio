@@ -152,12 +152,12 @@ animation: fadeIn ease 5s;
   opacity: 60%;
 }
 
-.services h3 {
+.services h2 {
 	font-family: 'Roboto Slab', serif;
 	color: #000000;
 }
 
-.services h3:hover {
+.services h2:hover {
 	color: #6495ED;
 }
 
