@@ -65,7 +65,7 @@ I was particularly impressed with the design of their video media player, which 
 
 ## Design Choices - Lessons
 
-This site however also demonstrates many sites try to be full of animation and interactive elements, and I decided that for my studio site many of these would be redundant and perhaps viewed as trying just a little too hard to impress. The ultimate goal of my website is to promote direct ‘personal’ contact, and if anything too much detail feels quite impersonal and overwhelming, which I wanted to avoid.
+[Pias.com](https://www.pias.com/) however also demonstrates a tendency for many sites try to be full of animation and interactive elements, and I decided that for my studio site many of these would be redundant and perhaps viewed as trying just a little too hard to impress. The ultimate goal of my website is to promote direct ‘personal’ contact, and if anything too much detail feels quite impersonal and overwhelming, which I wanted to avoid.
 
 ## Design Mk1
 
@@ -296,6 +296,20 @@ about.html
 ![Google Lighthouse Results for index.html](https://github.com/alexjohnives/soundkissstudio/blob/master/assets/images/lighthousedesktopindex.png)
 
 ![Google Lighthouse Results for index.html](https://github.com/alexjohnives/soundkissstudio/blob/master/assets/images/lighthousedesktopabout.png)
+
+### Accessibility Test Analysis - Google Lighthouse
+
+Immediately after performing the above tests I reran the desktop test on index.html
+
+![Google Lighthouse Results for index.html](https://github.com/alexjohnives/soundkissstudio/blob/master/assets/images/lighthousedesktopindex2.png)
+
+As you can see the performance increased 6 points from the previous result 60 to 66. I consider this figure may be tied to Github as host site and would be interested to see what the results would be when applied to a private commercial host server.
+
+Overall the results are positive and the website scores highly on accessibility, which I'm sure is in part due to the changes made after using WAVE.
+
+Performance is lowest scoring across the board, and reviewing the suggested changes performance gains could be made if I optimised the website images for their display size.
+
+Reviewing all catagories, consistently it is the mixed image sizing that causes issues.
 
 
 
