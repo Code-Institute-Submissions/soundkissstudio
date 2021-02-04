@@ -238,8 +238,49 @@ Google lighthouse and Wave Web Accessibility Evaluation Tool were used to test t
 
 [Wave](<https://wave.webaim.org/>)
 
+### Accessibility Testing results - WAVE
 
-![Wave Results](https://github.com/alexjohnives/soundkissstudio/blob/master/assets/images/csswarning.png)
+![Wave Results for index.html](https://github.com/alexjohnives/soundkissstudio/blob/master/assets/images/waveresults.png)
+
+![Wave Results for about.html](https://github.com/alexjohnives/soundkissstudio/blob/master/assets/images/waveresultsabout.png)
+
+#### WAVE Errors
+
+index.html
+1 X Linked image missing alternative text on Back to top arrow icon
+5 x Missing alt text on Nav bar social media icons and logo
+
+about.html
+The above errors were also present on the about page.
+In addition the tool flagged up
+1 x Missing youtube video alt text
+6 x Selected recording icon link alt texts
+
+#### WAVE Alerts
+
+index.html
+1. 2 x Alerts for skipped heading level at my page icons.
+2. 3 x Alerts for links to PDF documents.
+
+about.html
+1. 2 X Skipped heading level in Associated media section
+2. 2 X Suspicious link text
+3. 1 X Redundant link
+4. 9 X YouTube video
+
+#### WAVE Test Fixes
+
+index.html
+1. I have modified the h3 heading to h2 for my page links and the corresponding CSS styles.
+2. The PDF document links I have left as is for this project, but I am now aware of the accessibility issues related to using PDFs.
+
+about.html
+1. Headings were changed from h3 to h2
+2. Text for links was changed from 'here' to more descriptive titles as suggested
+3. The redundant link refers to the Home tab in the navbar. I have left this.
+4. The Youtube video links are required to have video captions. At this time I have left this but where possible I will see if Youtube's automatic Closed captions can be applied.
+
+
 
 ### Responsiveness Testing
 
