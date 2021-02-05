@@ -512,3 +512,5 @@ The site has been deployed on Github pages. Please use the following link.
 - Thanks to Johann Alberts and Igor at Codeinstitue Tutor Student Support for their guidance on using @media queries
 
 - Thank you to my Tutor Reuben Ferrante for his feedback, knowledge and positive guidance. I learnt a great deal from this project and look forward to the next.
+
+- Thanks to Dr Lindsey Smith for all the cups of tea.
