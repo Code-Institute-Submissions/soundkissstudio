@@ -1,16 +1,12 @@
 # Soundkiss Studio
 
-Soundkiss recording studio service and legacy page
-
-![Website shown on different display sizes](https://github.com/alexjohnives/soundkissstudio/blob/master/assets/images/soundkissresponsivedisplay.png)
-
-<!--<h2 align="center"><img src="https://i.ibb.co/TYvTXz1/Example-CI.png"></h2>-->
-
-## Live Website link
-
 [Soundkss Studio](https://alexjohnives.github.io/soundkissstudio/)
 
 <https://alexjohnives.github.io/soundkissstudio/index.html>
+
+Soundkiss recording studio service and legacy page
+
+![Website shown on different display sizes](https://github.com/alexjohnives/soundkissstudio/blob/master/assets/images/soundkissresponsivedisplay.png)
 
 ## Project goals
 
@@ -189,7 +185,60 @@ Apple Preview- Used for photo editing
 
 [Procreate](https://procreate.art/)- Was used for creating notes and wireframes on my ipad.
 
+## Testing User Stories from (UX) section
+
+### Revisiting first time User goals
+
+1. I want my first impression of the site's design to be positive and the site to instil a sense of professionalism, creativity and energy.
+
+- The user is greeted by a clean design featuring the studio logo, which may perhaps already be familiar by a business card or media reference for example. The animation offers a welcome message welcoming the user to the studio, and the overall feeling is that care and consideration has gone into the website design, reflecting on the professionalism of the organisation.
+
+- Immediately below the hero are links detailing the studio services.
+
+2. I want to be reassured that this company and site are trustworthy and credible.
+
+- Viewing the services page, I can see the studio space and equipment well presented. There are several options to make contact and if I had any questions or queries I have the opportunity to ask the organisation directly.
+
+- Also if the user explores the about section they will find a showcase of creative output that shows the professional standard and range of work which has been created.
+
+3. I want to easily understand the services being provided and how I can contact the studio management if I have questions.
+
+- Beneath the home page hero the services offered by the studio are detailed and links for further information provided. These links enable immediate access to desired information, and contact information to made direct contact with the studio is immediately accessible throughout.
+
+4. I want to see examples of the creative output of other artists who have used the facility.
+
+- The about section documents creative product and awards associated with the studio, and all of these are present, clearly demonstrating the competence of the organisation.
+
+5. I want my curiosity to be fired enough to want to make contact and enquire about next steps of engagement.
+
+- There is enough variety of content to illicit a response from interested users. Whether it be a recording from an artist they like, a video, studio photos or information about a service, all of these are clearly and creatively presented.
+
+
+### Revisiting frequent of returning User goals
+
+As a Returning and Frequent visitor:
+
+1. Most important is that I can immediately contact the company and find the necessary contact information required. This may be required on the move and should be made as accessible and visible as possible.
+
+- Contact is available via email form, email and phone links throughout the site, and the studio clearly welcomes users to contact. The contact info is available from the moment the site loads.
+
+2. See the latest projects and media associated with the studio.
+
+- In the about section, projects and associated media are all clearly presented.
+
+3. See the latest equipment and services on offer.
+
+- A seperate downloadable PDF was created so users could download information about equipment for sale and hire, and allow the website manager to regularly update this without changing the website design.
+
+- Services clearly require contacting the studio as the nature of the business.
+
 ## Testing
+
+The website was tested on popular browsers incluing Google Chrome, Safari, Opera and Mozilla Firefox.
+
+A live link to the website was also made available on Slack channel peer code review![Peer code review](https://github.com/alexjohnives/soundkissstudio/blob/master/assets/images/peercodereview.png)
+
+Several users commented and complimented the website, with no glitches reported.
 
 ### HTML Test
 
@@ -482,26 +531,25 @@ $ git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY
 > Unpacking objects: 100% (10/10), done.
 ```
 
-## Content Credits
-
-- All content was written by the developer with the exception of:
-
-1 CSS Fade-in animation code by Tremaine Eto sourced from:
-(<https://medium.com/cloud-native-the-gathering/how-to-use-css-to-fade-in-and-fade-out-html-text-and-pictures-f45c11364f08>)
-
-  The code was modified for the purposes of this project.
-
-2 Hero image overlay code by Daniel Zuzevich was sourced from:
-(<https://medium.com/@ItsMeDannyZ/code-a-full-width-hero-background-image-with-transparent-overlay-95d757f8ff2c>)
-
-  The code was modified for the purposes of this project.
-
-## Media
-
-- All Images were created by or have been licensed for use by the developer.
-The site has been deployed on Github pages. Please use the following link.
-
 ## Credits
+
+- All content was written by the developer with exceptions detailed below:
+
+### Code
+
+  - [Bootstap5](https://getbootstrap.com/docs/5.0/getting-started/introduction/) The documentation and examples were essential to realising this project, and component examples utilised.
+
+  - CSS Fade-in animation code by Tremaine Eto sourced from:
+  (<https://medium.com/cloud-native-the-gathering/how-to-use-css-to-fade-in-and-fade-out-html-text-and-pictures-f45c11364f08>)
+
+    The code was modified for the purposes of this project.
+
+  - Hero image overlay code by Daniel Zuzevich was sourced from:
+  (<https://medium.com/@ItsMeDannyZ/code-a-full-width-hero-background-image-with-transparent-overlay-95d757f8ff2c>)
+
+    The code was modified for the purposes of this project.
+
+### Media
 
 - Credit to [Toto Kuo](https://totokuophotography.com/) for her studio photography.
 
@@ -510,6 +558,10 @@ The site has been deployed on Github pages. Please use the following link.
 - Credit to [Sundance Lee](https://www.flickr.com/people/sundancelee/) for his live photography.
 
 - Credit to [YC Lin](https://blueballoonstudio.blogspot.com/) for his live photography.
+
+- Credit to all the artists whose creative content features on this site, permission has been asked and granted for our collaborations to be documented here.
+
+### Acknowledgements
 
 - Thanks to Johann Alberts and Igor at Codeinstitue Tutor Student Support for their guidance on using @media queries
 
