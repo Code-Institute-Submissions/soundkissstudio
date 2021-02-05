@@ -589,6 +589,6 @@ $ git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY
 
 - Thanks to Johann Alberts and Igor at Code Institute Tutor Student Support for their guidance on using @media queries
 
-- Thank you to my Tutor Reuben Ferrante for his feedback, knowledge and positive guidance. Having to go for a redesign was tough but I've learnt a great deal from the process and look forward to getting the next one right from the beginning!
+- Thank you to my tutor Reuben Ferrante for his feedback, knowledge and positive guidance. Having to go for a redesign was tough but I've learnt a great deal from the process and look forward to getting the next one right from the beginning!
 
 - Thanks to Dr Lindsey Smith for all the cups of tea put my way while working.
