@@ -262,6 +262,12 @@ Detected errors are shown in the following screenshots:
 
 2.Html comments were modified.
 
+The code was then retested and received the green light.
+
+![HTML Pass](https://github.com/alexjohnives/soundkissstudio/blob/master/assets/images/htmlvalidatorsuccess.png)
+
+
+
 ### CSS Test
 
 CSS was tested using the W3C CSS Validator Services
