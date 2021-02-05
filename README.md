@@ -490,7 +490,7 @@ Key in the end to resolving this issue was the following media query
 }
 ```
 
-I set the max-width to 768px to match Bootstrap's medium breakpoint value, and the image now displayed correctly.
+I set the max-width to 768px to match Bootstrap's medium breakpoint value, and adjusted page elements to work in sympathy with this new breakpoint. The image now displayed correctly.
 
 ## Known Bugs
 
@@ -498,11 +498,11 @@ There are no known bugs on this website.
 
 ## Other points of note
 
-I would like to point out my awareness of a couple of inconsistencies that I have left for the purpose of this project website, and hope I will not be penalised for them.
+I would like to point out my awareness of a couple of loose ends that I have left this project website, and hope I will not be penalised for them.
 
 1. The equipment hire PDF is the same as the equipment for sale. I left this link active as a sample.
 
-2. The footer mail link on the index page links to the contact form at the end of the page. This is the more secure way of offering a contact field. For the about page I left this link active as an email link.
+2. The footer mail link on the index page links to the contact form at the end of the page. This is the more secure way of offering a contact field. For the about page I left this link active as an email link. I understand this is not best practice due to potential email spamming.
 
 ## Deployment
 
