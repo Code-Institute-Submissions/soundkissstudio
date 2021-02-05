@@ -320,6 +320,14 @@ The above errors were also present on the about page.
 
 In addition the tool flagged up 6 x Selected recording icon links without title texts - CORRECTED
 
+With these error addressed these were the results.
+
+![Wave Errors corrected for index.html](https://github.com/alexjohnives/soundkissstudio/blob/master/assets/images/wavetestcompleteindex.png)
+
+![Wave Errors corrected for about.html](https://github.com/alexjohnives/soundkissstudio/blob/master/assets/images/wavetestcompleteabout.png)
+
+
+
 #### WAVE Alerts
 
 index.html
