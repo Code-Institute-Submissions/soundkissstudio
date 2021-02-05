@@ -10,6 +10,8 @@ Soundkiss recording studio service and legacy page
 
 [Soundkss Studio](https://alexjohnives.github.io/soundkissstudio/)
 
+<https://alexjohnives.github.io/soundkissstudio/index.html>
+
 ## Project goals
 
 The goal of this project website is to create a web page for the recording studio I used to run in Taipei, Taiwan ROC, named Soundkiss.
@@ -401,7 +403,9 @@ I contacted tutor support who were very helpful in advising me what resources I 
 
 Key in the end to resolving this issue was the following media query
 
-'''@media only screen and (max-width: 768px) {
+
+```Css
+@media only screen and (max-width: 768px) {
     #hero-image {
         background-size: contain;
         width: 100vw;
@@ -420,8 +424,9 @@ Key in the end to resolving this issue was the following media query
   text-align: center;
 }
 }
+```
 
-I set the max-width to 768px to match Bootstraps medium breakpoint value, and the image now displayed correctly.
+I set the max-width to 768px to match Bootstrap's medium breakpoint value, and the image now displayed correctly.
 
 
 ## Known Bugs
@@ -501,7 +506,7 @@ The site has been deployed on Github pages. Please use the following link.
 
 ## Credits
 
-- Credit to [Toto Kuo](https://totokuophotography.com/)for her studio photography.
+- Credit to [Toto Kuo](https://totokuophotography.com/) for her studio photography.
 
 - Credit to [Pia Hsieh](https://alfunsety.wixsite.com/impia) for her studio logo design.
 
