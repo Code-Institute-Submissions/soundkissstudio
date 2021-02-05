@@ -242,7 +242,7 @@ The website was tested on popular browsers incluing Google Chrome, Safari, Opera
 
 A live link to the website was also made available on Slack channel peer code review!
 
-[Peer code review](https://github.com/alexjohnives/soundkissstudio/blob/master/assets/images/peercodereview.png)
+![Peer code review](https://github.com/alexjohnives/soundkissstudio/blob/master/assets/images/peercodereview.png)
 
 Several users commented and complimented the website, with no glitches reported.
 
@@ -255,7 +255,9 @@ Html code was tested using the [W3 HTML Validator](<https://validator.w3.org/>)
 Detected errors are shown in the following screenshots:
 
 ![HTML result 1](https://github.com/alexjohnives/soundkissstudio/blob/master/assets/images/htmltest1.png)
+
 ![HTML result 2](https://github.com/alexjohnives/soundkissstudio/blob/master/assets/images/htmltest2.png)
+
 ![HTML result 3](https://github.com/alexjohnives/soundkissstudio/blob/master/assets/images/htmltest3.png)
 
 #### HTML Test Fixes
