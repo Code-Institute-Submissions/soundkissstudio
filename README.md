@@ -105,7 +105,7 @@ Favouring opacity changes to show clickable content, I used Cornflower Blue (#64
 
 ![Tetradic pallette](https://github.com/alexjohnives/soundkissstudio/blob/master/assets/images/tetradic-cornflower.png?raw=true)
 
-Sourced from ![colorhexa](https://www.colorhexa.com/6495ed)
+Sourced from [colorhexa](https://www.colorhexa.com/6495ed)
 
 This calm and lively color combination highlights the icons as clickable links.
 
