@@ -160,7 +160,9 @@ Contacts for clients who need information immediately or to prepare for visiting
 ## Languages Used
 
 HTML5
+
 CSS
+
 Javascript (Via Bootstrap)
 
 ## Tools, Frameworks, Libraries and Programs used
