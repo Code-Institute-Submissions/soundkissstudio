@@ -309,7 +309,7 @@ Overall the results are positive and the website scores highly on accessibility,
 
 Performance is lowest scoring across the board, and reviewing the suggested changes performance gains could be made if I optimised the website images for their display size.
 
-Reviewing all catagories, consistently it is the mixed image sizing that causes issues.
+Reviewing all categories, consistently it is the mixed image sizing that causes issues.
 
 
 
@@ -323,19 +323,17 @@ The results proved strange, showing multiple additional elements across several 
 
 ![Responsinator Results for index.html](https://github.com/alexjohnives/soundkissstudio/blob/master/assets/images/responseresults.png)
 
-These results were cross checked using
+I rechecked my code and discovered a missing < element was responsible. Responsiveness was rechecked and everything appeared fine.
 
-(<https://search.google.com/test/mobile-friendly>)
+![Responsinator Results for index.html](https://github.com/alexjohnives/soundkissstudio/blob/master/assets/images/responseresults2.png)
 
-The results also appeared strange
+![Responsinator Results for about.html](https://github.com/alexjohnives/soundkissstudio/blob/master/assets/images/responseresults3.png)
 
-![Results](https://search.google.com/test/mobile-friendly?id=GaKyehdc15X3VtJssGKh-w)
 
-Finally I returned to Google Device mode
+I rechecked the website using Google Device mode across a number of devices and encountered no issues.
 
 [Google Device Mode](<https://developers.google.com/web/tools/chrome-devtools/device-mode>)
 
-I used this throughout development and had no issues last time I check responsiveness. However I did this time. The index.html page is displaying incorrectly but about.html is not. I crosschecked about and index footer code.
 
 
 
