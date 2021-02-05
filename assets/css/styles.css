@@ -26,16 +26,12 @@ p {
   font-size: 20px;
 }
 
-
 /* Navbar */
-
 .navbar-brand {
   padding-left: 1.5rem;
 }
 
-
 /*Navbar Social Media Icons*/
-
 .sm-icons i {
   color: #000000;
   font-size: 1rem;
@@ -50,9 +46,7 @@ p {
 }
 
 /*Hero image, text and overlay*/
-/* Reference for making hero and overlay work
-https://medium.com/@ItsMeDannyZ/code-a-full-width-hero-background-image-with-transparent-overlay-95d757f8ff2c */
-
+/* Reference for making hero and overlay work by Daniel Zuzevich, please view README.md for link*/
 #hero-image {
   background-image: url('../images/soundkiss.jpg');
   background-repeat: no-repeat;
@@ -87,7 +81,7 @@ https://medium.com/@ItsMeDannyZ/code-a-full-width-hero-background-image-with-tra
   }
 
 /*Fade in animation for Hero image, text and overlay*/
-/* Fade in animation code sourced from https://blog.hubspot.com/website/css-fade-in */
+/*Fade in sample animation code by Tremain Eto, please view README.md for link*/
 
 .fade-in {
 animation: fadeIn ease 5s;
@@ -122,15 +116,12 @@ animation: fadeIn ease 5s;
 }
 
 /* Divider */
-
 .divider {
   margin-top: 3rem;
   margin-bottom: 3rem;
 }
 
-
 /* Services */
-
 .services img {
 	margin-bottom: 2rem;
   width: 16rem;
@@ -173,7 +164,6 @@ animation: fadeIn ease 5s;
 }
 
 /* Equipment */
-
 .img-mics {
   max-height: 80vh;
 }
@@ -183,10 +173,7 @@ animation: fadeIn ease 5s;
   padding-bottom: 5rem;
 }
 
-
-
 /* Footer */
-
 .footer {
   background: #000000;
   opacity: 80%;
@@ -205,8 +192,7 @@ animation: fadeIn ease 5s;
   font-size: 20px;
 }
 
-/*-------------------------------------- About page */
-
+/*----------------------------- About page */
 #about-soundkiss {
   padding-top: 5rem;
 }
@@ -225,7 +211,6 @@ animation: fadeIn ease 5s;
 }
 
 /* About images */
-
 .img-alexguitar {
   max-width: 80vw;
   max-height: 80vh;
@@ -253,7 +238,6 @@ animation: fadeIn ease 5s;
 
 /* @media css */
 /*Thanks to Johann Alberts and Igor at Codeinstitue Student Support for their guidance on using @media queries */
-
 @media only screen and (max-width: 768px) {
     #hero-image {
         background-size: contain;
