@@ -195,7 +195,7 @@ Apple Preview- Used for photo editing
 
 1. I want my first impression of the site's design to be positive and the site to instil a sense of professionalism, creativity and energy.
 
-- The user is greeted by a clean design featuring the studio logo, which may perhaps already be familiar by a business card or media reference for example. The animation offers a welcome message welcoming the user to the studio, and the overall feeling is that care and consideration has gone into the website design, reflecting on the professionalism of the organisation.
+- The user is greeted by a clean design featuring the studio logo, which may perhaps already be familiar by a business card or media reference. The animation offers a welcoming friendly message to the user. The overall feeling is that care and consideration has gone into the website design, reflecting on the professionalism of the organisation.
 
 - Immediately below the hero are links detailing the studio services.
 
