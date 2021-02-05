@@ -183,7 +183,7 @@ Javascript (Via Bootstrap)
 
 [Github](https://github.com/)- Used to store the project code pushed from Git.
 
-Apple Preview- Used for photo
+Apple Preview- Used for photo editing
 
 [Procreate](https://procreate.art/)- Was used for creating notes and wireframes on my ipad.
 
@@ -336,7 +336,7 @@ I rechecked the website using [Google Device Mode](<https://developers.google.co
 
 During the development of this website I encountered a couple of glitches.
 
-#### Tooltips
+### Tooltips
 
 Using Bootstrap 5 I wished to utilise the native tooltip class on this site, and after importing them via popper and applying to the icons on my about page, they displayed but the icons appeared strange.
 
@@ -484,12 +484,12 @@ $ git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY
 
 - All content was written by the developer with the exception of:
 
-1. CSS Fade-in animation code by Tremaine Eto sourced from:
+1 CSS Fade-in animation code by Tremaine Eto sourced from:
 (<https://medium.com/cloud-native-the-gathering/how-to-use-css-to-fade-in-and-fade-out-html-text-and-pictures-f45c11364f08>)
 
   The code was modified for the purposes of this project.
 
-2. Hero image overlay code by Daniel Zuzevich was sourced from:
+2 Hero image overlay code by Daniel Zuzevich was sourced from:
 (<https://medium.com/@ItsMeDannyZ/code-a-full-width-hero-background-image-with-transparent-overlay-95d757f8ff2c>)
 
   The code was modified for the purposes of this project.
