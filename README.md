@@ -261,10 +261,12 @@ In addition the tool flagged up
 #### WAVE Alerts
 
 index.html
+
 1. 2 x Alerts for skipped heading level at my page icons.
 2. 3 x Alerts for links to PDF documents.
 
 about.html
+
 1. 2 X Skipped heading level in Associated media section
 2. 2 X Suspicious link text
 3. 1 X Redundant link
@@ -274,16 +276,17 @@ about.html
 #### WAVE Test Fixes
 
 index.html
+
 1. I have modified the h3 heading to h2 for my page links and the corresponding CSS styles.
 2. The PDF document links I have left as is for this project, but I am now aware of the accessibility issues related to using PDFs.
 
 about.html
+
 1. Headings were changed from h3 to h2
 2. Text for links was changed from 'here' to more descriptive titles as suggested
 3. The redundant link refers to the Home tab in the navbar. I have left this.
 4. The Youtube video links are required to have video captions. At this time I have left this but where possible I will see if Youtube's automatic Closed captions can be applied.
 5. The contrast errors refer to the top of page icons, stating they do not contrast enough against the background. These I have also chosen to leave, but will be more informed about my choices of colour for visually impaired users going forward.
-
 
 ### Accessibility Test results - Google Lighthouse
 
@@ -313,8 +316,6 @@ Performance is lowest scoring across the board, and reviewing the suggested chan
 
 Reviewing all categories, consistently it is the mixed image sizing that causes issues.
 
-
-
 ### Responsiveness Testing
 
 Responsiveness was tested using first [Responsinator](<https://www.responsinator.com/>)
@@ -329,9 +330,7 @@ I rechecked my code and discovered a missing < element was responsible. Responsi
 
 ![Responsinator Results for about.html](https://github.com/alexjohnives/soundkissstudio/blob/master/assets/images/responseresults3.png)
 
-
 I rechecked the website using [Google Device Mode](<https://developers.google.com/web/tools/chrome-devtools/device-mode>) mode across a number of devices and encountered no issues.
-
 
 ## Bugs
 
@@ -390,7 +389,6 @@ After trying several solutions I consulted with my mentor Reuben and he discover
 
 ![This code resulted in the fontawesome icons being displayed correctly](https://github.com/alexjohnives/soundkissstudio/blob/master/assets/images/abouticonbugsolution.png)
 
-
 - Hero image and overlay
 
 Utilising the approach demonstrated in the Whiskey Drop class, I created a hero image with overlay. I discovered that it did not display correctly on smaller media.
@@ -399,10 +397,9 @@ Utilising the approach demonstrated in the Whiskey Drop class, I created a hero 
 
 This I discovered was not a bug, but that I had not applied a media query to change the display of this element.
 
-I contacted tutor support who were very helpful in advising me what resources I could use to fix the issue, particularly this w3schools(https://www.w3schools.com/css/css_rwd_mediaqueries.asp) article.
+I contacted tutor support who were very helpful in advising me what resources I could use to fix the issue, particularly this w3schools(<https://www.w3schools.com/css/css_rwd_mediaqueries.asp>) article.
 
 Key in the end to resolving this issue was the following media query
-
 
 ```Css
 @media only screen and (max-width: 768px) {
@@ -428,11 +425,9 @@ Key in the end to resolving this issue was the following media query
 
 I set the max-width to 768px to match Bootstrap's medium breakpoint value, and the image now displayed correctly.
 
-
 ## Known Bugs
 
 There are no known bugs on this website.
-
 
 ## Deployment
 
@@ -490,12 +485,12 @@ $ git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY
 - All content was written by the developer with the exception of:
 
 1. CSS Fade-in animation code by Tremaine Eto sourced from:
-(https://medium.com/cloud-native-the-gathering/how-to-use-css-to-fade-in-and-fade-out-html-text-and-pictures-f45c11364f08)
+(<https://medium.com/cloud-native-the-gathering/how-to-use-css-to-fade-in-and-fade-out-html-text-and-pictures-f45c11364f08>)
 
   The code was modified for the purposes of this project.
 
 2. Hero image overlay code by Daniel Zuzevich was sourced from:
-(https://medium.com/@ItsMeDannyZ/code-a-full-width-hero-background-image-with-transparent-overlay-95d757f8ff2c)
+(<https://medium.com/@ItsMeDannyZ/code-a-full-width-hero-background-image-with-transparent-overlay-95d757f8ff2c>)
 
   The code was modified for the purposes of this project.
 
