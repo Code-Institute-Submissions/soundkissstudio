@@ -320,7 +320,7 @@ The above errors were also present on the about page.
 
 In addition the tool flagged up 6 x Selected recording icon links without title texts - CORRECTED
 
-With these error addressed these were the results.
+With these errors addressed these were the results.
 
 ![Wave Errors corrected for index.html](https://github.com/alexjohnives/soundkissstudio/blob/master/assets/images/wavetestcompleteindex.png)
 
@@ -381,9 +381,7 @@ As you can see the performance increased 6 points from the previous result 60 to
 
 Overall the results are positive and the website scores highly on accessibility, which I'm sure is in part due to the changes made after using WAVE.
 
-Performance is lowest scoring across the board, and reviewing the suggested changes performance gains could be made if I optimised the website images for their display size. With limited time to edit images at this time, I will learn form this design consideration and make sure to use the correct optimised images from the outset in future work.
-
-Reviewing all categories, consistently it is the mixed image sizing that causes issues.
+Performance is lowest scoring across the board, and reviewing the suggested changes performance gains could be made if I optimised the website images for their display size. unwilling to re-edit images at this time, I will learn form this design consideration and make sure to use the correct optimised images from the outset in future work.
 
 ### Responsiveness Testing
 
@@ -456,7 +454,7 @@ After trying several solutions I consulted with my mentor Reuben and we discover
 </section>
 ```
 
-This code resulted in the fontawesome icons being displayed correctly. Bootstrap tooltip classes were later readded. !(https://github.com/alexjohnives/soundkissstudio/blob/master/assets/images/abouticonbugsolution.png)
+This code resulted in the fontawesome icons being displayed correctly. Bootstrap tooltip classes were later readded. ![Solution](https://github.com/alexjohnives/soundkissstudio/blob/master/assets/images/abouticonbugsolution.png)
 
 - Hero image and overlay
 
