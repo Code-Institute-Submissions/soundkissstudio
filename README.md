@@ -65,7 +65,7 @@ I was particularly impressed with the design of their video media player, which 
 
 ## Design Choices - Lessons
 
-[Pias.com](https://www.pias.com/) however also demonstrates a tendency for many sites try to be full of animation and interactive elements, and I decided that for my studio site many of these would be redundant and perhaps viewed as trying just a little too hard to impress. The ultimate goal of my website is to promote direct ‘personal’ contact, and if anything too much detail feels quite impersonal and overwhelming, which I wanted to avoid.
+[Pias.com](https://www.pias.com/) however also demonstrates that many sites are now full of animation and interactive elements, and I decided that for my studio site many of these would be redundant and perhaps viewed as trying just a little too hard to impress. The ultimate goal of my website is to promote direct ‘personal’ contact, and if anything too much detail feels quite impersonal and overwhelming.
 
 ## Design Mk1
 
@@ -285,13 +285,13 @@ about.html
 
 ### Accessibility Test results - Google Lighthouse
 
-####Mobile
+#### Mobile
 
 ![Google Lighthouse Results for index.html](https://github.com/alexjohnives/soundkissstudio/blob/master/assets/images/lighthouseindex.png)
 
 ![Google Lighthouse Results for about.html](https://github.com/alexjohnives/soundkissstudio/blob/master/assets/images/lighthouseabout.png)
 
-####Desktop
+#### Desktop
 
 ![Google Lighthouse Results for index.html](https://github.com/alexjohnives/soundkissstudio/blob/master/assets/images/lighthousedesktopindex.png)
 
