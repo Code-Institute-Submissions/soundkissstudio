@@ -464,7 +464,7 @@ Utilising the approach demonstrated in the Whiskey Drop class, I created a hero 
 
 This I discovered was not a bug, but that I had not applied a media query correctly to change the display of this element.
 
-I contacted tutor support who were very helpful in advising me what resources I could use to fix the issue, particularly this w3schools(<https://www.w3schools.com/css/css_rwd_mediaqueries.asp>) article.
+I contacted tutor support who were very helpful in advising me what resources I could use to fix the issue, particularly this [w3schools](<https://www.w3schools.com/css/css_rwd_mediaqueries.asp>) article.
 
 Key in the end to resolving this issue was the following media query
 
