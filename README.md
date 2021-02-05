@@ -339,7 +339,7 @@ I rechecked the website using Google Device mode across a number of devices and 
 During the development of this website I encountered a couple of glitches.
 
 - Tooltips
-Using Bootstrap 5 I wished to utilise tooltips on this site, and after importing them via popper and applying to the icons on my about page, they would not display.
+Using Bootstrap 5 I wished to utilise the native tooltip class on this site, and after importing them via popper and applying to the icons on my about page, they displayed but the icons appeared strange.
 
 '''Html
 <!-- About Icons -->
@@ -361,7 +361,7 @@ Using Bootstrap 5 I wished to utilise tooltips on this site, and after importing
 
 ![This code resulted in the fontawesome icons being displayed with strange artefacts](https://github.com/alexjohnives/soundkissstudio/blob/master/assets/images/abouticonbug.png)
 
-After trying several solutions I consulted with my mentor Reuben and he discovered that by inserting a <span> class, that the issue was resolved.
+After trying several solutions I consulted with my mentor Reuben and he discovered that by inserting a <span> class, that the issue was resolved. The tooltips and icons displayed correctly.
 
 '''<section id="about-icons">
   <div class="container">
@@ -387,6 +387,10 @@ After trying several solutions I consulted with my mentor Reuben and he discover
 
 ![This code resulted in the fontawesome icons being displayed correctly](https://github.com/alexjohnives/soundkissstudio/blob/master/assets/images/abouticonbugsolution.png)
 
+
+- Hero image and overlay
+
+Utilising the approaccch used to 
 
 
 
