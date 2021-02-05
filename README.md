@@ -456,7 +456,7 @@ After trying several solutions I consulted with my mentor Reuben and we discover
 
 This code resulted in the fontawesome icons being displayed correctly. Bootstrap tooltip classes were later readded. ![Solution](https://github.com/alexjohnives/soundkissstudio/blob/master/assets/images/abouticonbugsolution.png)
 
-- Hero image and overlay
+### Hero image and overlay
 
 Utilising the approach demonstrated in the Whiskey Drop class, I created a hero image with overlay. I discovered that it did not display correctly on smaller media.
 
