@@ -456,7 +456,7 @@ After trying several solutions I consulted with my mentor Reuben and we discover
 </section>
 ```
 
-![This code resulted in the fontawesome icons being displayed correctly](https://github.com/alexjohnives/soundkissstudio/blob/master/assets/images/abouticonbugsolution.png)
+This code resulted in the fontawesome icons being displayed correctly. Bootstrap tooltip classes were later readded. !(https://github.com/alexjohnives/soundkissstudio/blob/master/assets/images/abouticonbugsolution.png)
 
 - Hero image and overlay
 
