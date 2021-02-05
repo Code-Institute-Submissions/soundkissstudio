@@ -99,7 +99,7 @@ You can see in this wireframe for the about page, I had not quite got there.
 
 ### Colors
 
-I therefore decided on keeping my design clean and concise. I decided black and white text and plain backgrounds would provide good contrast to the images and media I would present.
+I therefore decided on keeping my design clean and concise. I decided black and white text and plain backgrounds as shown on my wireframes would provide good contrast to the images and media I would present.
 
 Favouring opacity changes to show clickable content, I used Cornflower Blue (#6495e) paired with a tetradic pallette related medium Aquamarine (#64edbc) for hover class icons on the about page.
 
@@ -112,7 +112,7 @@ This calm and lively color combination highlights the icons as clickable links.
 ### Typography
 
 Having explored several font choices and combinations I settled on Roboto Slab from Google Fonts for its chunky rounded headings.
-This was paired with Roboto, the font family being described by Google as possessing:
+This was paired with Roboto, the font family being described on the Google Fonts site as possessing:
 
  >‘a dual nature. It has a mechanical skeleton and the forms are largely geometric. At the same time, the font features friendly and open curves.’
 
@@ -128,13 +128,13 @@ Finding the selection sometimes not suitable, I have also used icons from FontAw
 
 With a couple of exceptions, all the images utilised in this project belong to me.
 
-When I was still in Taiwan I commissioned Toto Kuo, a photographer friend, to take photos at various points during the evolution of the studio and these I’ve utilised for the included photo media.
+When I was still in Taiwan I commissioned [Toto Kuo](https://totokuophotography.com/), a photographer friend, to take photos at various points during the evolution of the studio and these I’ve utilised for the included photo media.
 
-Other images include my backstage photo by Sundance Lee, and my on stage concert shot by YC Lin (<https://blueballoonstudio.blogspot.com/>), who have both previously granted me permission to utilise these for my personal use.
+Other images include my backstage photo by [Sundance Lee](https://www.flickr.com/people/sundancelee/), and my on stage concert shot by [YC Lin](<https://blueballoonstudio.blogspot.com/>), who have both previously granted me permission to utilise these for my personal use.
 
 ### Logo
 
-When I first established the studio I commissioned a company logo to be designed by Pia Hsieh, an artist friend. This was based on something I imagined, which is the focused and precise but still vibrant motion in which a hummingbird draws nectar from a flower.
+When I first established the studio I commissioned a company logo to be designed by [Pia Hsieh](https://alfunsety.wixsite.com/impia), an artist friend. This was based on something I imagined, which is the focused and precise but still vibrant motion in which a hummingbird draws nectar from a flower.
 
 Next, imagining sound as a flower emerging from a speaker, there’s the logo! If you hadn’t guessed already, the hummingbird represents me as sound engineer and I know Leonard Cohen was also very fond of them as a subject.
 
@@ -578,7 +578,7 @@ $ git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY
 
 - Credit to [YC Lin](https://blueballoonstudio.blogspot.com/) for his live photography.
 
-- Credit to all the artists whose creative content features on this site, permission has been asked and granted for our collaborations to be documented here.
+- Credit to all the artists whose creative content features on this site, permission has been asked and granted for our collaborations and creative product to be documented here.
 
 ### Acknowledgements
 
