@@ -65,13 +65,13 @@ I was particularly impressed with the design of their video media player, which 
 
 ## Design Choices - Lessons
 
-[Pias.com](https://www.pias.com/) however also demonstrates that many sites are now full of animation and interactive elements, and I decided that for my studio site many of these would be redundant and perhaps viewed as trying just a little too hard to impress. The ultimate goal of my website is to promote direct ‘personal’ contact, and if anything too much detail feels quite impersonal and overwhelming.
+[Pias.com](https://www.pias.com/) is also an example a website that is full of animation and interactive elements, and I decided that for my studio site many of these would be redundant and perhaps viewed as trying just a little too hard to impress. The ultimate goal of my website is to promote direct ‘personal’ contact, and if anything too much detail feels quite impersonal and overwhelming.
 
 ## Design Mk1
 
 From the outset I decided I wanted to use bootstrap in this project, and with the recent release of Bootstrap 5 Beta, I thought I would try the latest version.
 
-Browsing Bootstrap's documentation I decided on a single page design , which I thought I would build using Accordion architecture to allow users to select what content they would like to see. Below is the wireframe for the site.
+Browsing Bootstrap's documentation I decided on a single page design, which I thought I would build using Accordion architecture to allow users to select what content they would like to see. Below is the wireframe for the site.
 
 ![Soundkiss Studio initial website design](https://github.com/alexjohnives/soundkissstudio/blob/master/assets/images/soundkisswire1.png)
 
@@ -79,7 +79,7 @@ I wanted to lead with the studio logo as hero image, as who doesn't like an eye 
 
 I created this site but discovered that actually the Bootstrap accordion as a mainframe was confusing, uninviting and turned out to be frustrating to use.
 
-After discussing this design with my tutor, I decided on a new design.
+After discussing the failures of this website with my tutor, I decided to start over with a new design.
 
 ## Design Mk2
 
@@ -87,11 +87,11 @@ Now much more familiar with Bootstrap architecture having created one site, I de
 
 ![Soundkiss Studio draft website design 1](https://github.com/alexjohnives/soundkissstudio/blob/master/assets/images/soundkissdraft2.png)
 
-I made very basic wireframes as you can see, and then scribbled on paper as I worked. I discovered that the main challenge was trying to find images from my archive that would work on the site and fulfil different roles.
+I made very basic wireframes, and then scribbled on paper as I worked. I discovered that the main challenge was trying to find images from my archive that would work on the site and fulfil different roles.
 
 For the first page I kept the logo hero image and incorporated some photo media as content links.
 
-For the second I did not have a solution, but then I thought I could utilise icons, which is the solution I used in the final design.
+For the second I did not have a solution, but then I thought I could utilise icons, which ended up in the final design.
 
 You can see in this wireframe for the about page, I had not quite got there.
 
@@ -104,6 +104,8 @@ I therefore decided on keeping my design clean and concise. I decided black and 
 Favouring opacity changes to show clickable content, I used Cornflower Blue (#6495e) paired with a tetradic pallette related medium Aquamarine (#64edbc) for hover class icons on the about page.
 
 ![Tetradic pallette](https://github.com/alexjohnives/soundkissstudio/blob/master/assets/images/tetradic-cornflower.png?raw=true)
+
+Sourced from ![colorhexa](https://www.colorhexa.com/6495ed)
 
 This calm and lively color combination highlights the icons as clickable links.
 
@@ -134,7 +136,7 @@ Other images include my backstage photo by Sundance Lee, and my on stage concert
 
 When I first established the studio I commissioned a company logo to be designed by Pia Hsieh, an artist friend. This was based on something I imagined, which is the focused and precise but still vibrant motion in which a hummingbird draws nectar from a flower.
 
-Next, imagining sound as a flower emerging from a speaker, there’s the logo! If you hadn’t guessed already, the hummingbird is me and I know Leonard Cohen was also very fond of them as a subject.
+Next, imagining sound as a flower emerging from a speaker, there’s the logo! If you hadn’t guessed already, the hummingbird represents me as sound engineer and I know Leonard Cohen was also very fond of them as a subject.
 
 ![Soundkiss logo](https://github.com/alexjohnives/soundkissstudio/blob/master/assets/images/soundkiss.jpg)
 
