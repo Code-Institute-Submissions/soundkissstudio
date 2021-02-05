@@ -301,11 +301,7 @@ I discussed these warnings with my tutor and he recommended that I remove the an
 
 ## Accessibility Testing
 
-Google lighthouse and Wave Web Accessibility Evaluation Tool were used to test the site’s accessibility
-
-[Google Lighthouse](<https://developers.google.com/web/tools/lighthouse>)
-
-[Wave](https://wave.webaim.org/)
+[Google Lighthouse](<https://developers.google.com/web/tools/lighthouse>) and [Wave](https://wave.webaim.org/) Web Accessibility Evaluation Tool were used to test this website.
 
 ### Accessibility Testing results - WAVE
 
