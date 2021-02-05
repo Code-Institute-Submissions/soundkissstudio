@@ -30,6 +30,8 @@ Thirdly, I hoped that when I create a personal webpage, I would be able to integ
 
 As a primarily English speaking musician or creative requiring audio services in Taiwan, when searching online for local options I want to see somewhere that is shown to be both professional and inviting, offers interest grabbing services and actual samples of creative products that appeal to me.
 
+As a Chinese speaking local user I would want to see a Mandarin version of this site, but having discussed this with my mentor at the outset, we decided best to focus solely on an English language version.
+
 ## First Time Visitor
 
 As a First Time Visitor:
