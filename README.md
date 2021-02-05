@@ -334,10 +334,61 @@ I rechecked the website using Google Device mode across a number of devices and 
 
 [Google Device Mode](<https://developers.google.com/web/tools/chrome-devtools/device-mode>)
 
-
-
-
 ## Bugs
+
+During the development of this website I encountered a couple of glitches.
+
+- Tooltips
+Using Bootstrap 5 I wished to utilise tooltips on this site, and after importing them via popper and applying to the icons on my about page, they would not display.
+
+'''Html
+<!-- About Icons -->
+<section id="about-icons">
+  <div class="container">
+    <div class="row mb-5 mt-5 justify-content-md-center about-icons">
+      <div class="col text-center">
+        <a href="#records" data-bs-toggle="tooltip" data-bs-placement="top" title="Selected Recordings" class="fas fa-compact-disc fade-in fa-4x"></a>
+      </div>
+      <div class="col text-center">
+        <a href="#videos" data-bs-toggle="tooltip" data-placement="top" title="Selected Video Media" class="fas fa-video fade-in fa-4x"></a>
+      </div>
+      <div class="col text-center">
+        <a href="#media" data-bs-toggle="tooltip" data-placement="top" title="Related External Links" class="fas fa-external-link-alt fade-in fa-4x"></a>
+      </div>
+    </div>
+  </div>
+</section>
+
+![This code resulted in the fontawesome icons being displayed with strange artefacts](https://github.com/alexjohnives/soundkissstudio/blob/master/assets/images/abouticonbug.png)
+
+After trying several solutions I consulted with my mentor Reuben and he discovered that by inserting a <span> class, that the issue was resolved.
+
+'''<section id="about-icons">
+  <div class="container">
+    <div class="row mb-5 mt-5 justify-content-md-center about-icons">
+      <div class="col text-center">
+        <a href="#records">
+          <span data-bs-toggle="tooltip" data-bs-placement="top" title="Selected Recordings" class="fas fa-compact-disc fade-in fa-4x"></span>
+        </a>
+      </div>
+      <div class="col text-center">
+        <a href="#videos">
+          <span data-bs-toggle="tooltip" data-placement="top" title="Selected Video Media" class="fas fa-video fade-in fa-4x"></span>
+        </a>
+      </div>
+      <div class="col text-center">
+        <a href="#media">
+          <span data-bs-toggle="tooltip" data-placement="top" title="Related External Links" class="fas fa-external-link-alt fade-in fa-4x"></span>
+        </a>
+      </div>
+    </div>
+  </div>
+</section>
+
+![This code resulted in the fontawesome icons being displayed correctly](https://github.com/alexjohnives/soundkissstudio/blob/master/assets/images/abouticonbugsolution.png)
+
+
+
 
 ## Known Bugs
 
@@ -392,9 +443,19 @@ $ git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY
 > Unpacking objects: 100% (10/10), done.
 ```
 
-## Content
+## Content Credits
 
-- All content was written by the developer.
+- All content was written by the developer with the exception of:
+
+1. CSS Fade-in animation code by Tremaine Eto sourced from:
+(https://medium.com/cloud-native-the-gathering/how-to-use-css-to-fade-in-and-fade-out-html-text-and-pictures-f45c11364f08)
+
+  The code was modified for the purposes of this project.
+
+2. Hero image overlay code by Daniel Zuzevich was sourced from:
+(https://medium.com/@ItsMeDannyZ/code-a-full-width-hero-background-image-with-transparent-overlay-95d757f8ff2c)
+
+  The code was modified for the purposes of this project.
 
 ## Media
 
@@ -403,5 +464,14 @@ The site has been deployed on Github pages. Please use the following link.
 
 ## Credits
 
-- Thanks to Johann Alberts and Igor at Codeinstitue Student Support for their guidance on using @media queries
+- Credit to [Toto Kuo](https://totokuophotography.com/)for her studio photography.
+
+- Credit to [Pia Hsieh](https://alfunsety.wixsite.com/impia) for her studio logo design.
+
+- Credit to [Sundance Lee](https://www.flickr.com/people/sundancelee/) for his live photography.
+
+- Credit to [YC Lin](https://blueballoonstudio.blogspot.com/) for his live photography.
+
+- Thanks to Johann Alberts and Igor at Codeinstitue Tutor Student Support for their guidance on using @media queries
+
 - Thank you to my Tutor Reuben Ferrante for his feedback, knowledge and positive guidance. I learnt a great deal from this project and look forward to the next.
