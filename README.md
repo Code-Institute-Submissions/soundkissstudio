@@ -496,6 +496,14 @@ I set the max-width to 768px to match Bootstrap's medium breakpoint value, and t
 
 There are no known bugs on this website.
 
+## Other points of note
+
+I would like to point out my awareness of a couple of inconsistencies that I have left for the purpose of this project website, and hope I will not be penalised for them.
+
+1. The equipment hire PDF is the same as the equipment for sale. I left this link active as a sample.
+
+2. The footer mail link on the index page links to the contact form at the end of the page. This is the more secure way of offering a contact field. For the about page I left this link active as an email link.
+
 ## Deployment
 
 The site has been deployed on Github pages. Please use the following link.
