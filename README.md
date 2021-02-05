@@ -315,9 +315,7 @@ Reviewing all categories, consistently it is the mixed image sizing that causes 
 
 ### Responsiveness Testing
 
-Responsiveness was tested using first:
-
-[Responsinator](<https://www.responsinator.com/>)
+Responsiveness was tested using first [Responsinator](<https://www.responsinator.com/>)
 
 The results proved strange, showing multiple additional elements across several devices.
 
@@ -330,18 +328,18 @@ I rechecked my code and discovered a missing < element was responsible. Responsi
 ![Responsinator Results for about.html](https://github.com/alexjohnives/soundkissstudio/blob/master/assets/images/responseresults3.png)
 
 
-I rechecked the website using Google Device mode across a number of devices and encountered no issues.
+I rechecked the website using [Google Device Mode](<https://developers.google.com/web/tools/chrome-devtools/device-mode>) mode across a number of devices and encountered no issues.
 
-[Google Device Mode](<https://developers.google.com/web/tools/chrome-devtools/device-mode>)
 
 ## Bugs
 
 During the development of this website I encountered a couple of glitches.
 
-- Tooltips
+#### Tooltips
+
 Using Bootstrap 5 I wished to utilise the native tooltip class on this site, and after importing them via popper and applying to the icons on my about page, they displayed but the icons appeared strange.
 
-'''Html
+```Html
 <!-- About Icons -->
 <section id="about-icons">
   <div class="container">
@@ -358,12 +356,14 @@ Using Bootstrap 5 I wished to utilise the native tooltip class on this site, and
     </div>
   </div>
 </section>
+```
 
 ![This code resulted in the fontawesome icons being displayed with strange artefacts](https://github.com/alexjohnives/soundkissstudio/blob/master/assets/images/abouticonbug.png)
 
 After trying several solutions I consulted with my mentor Reuben and he discovered that by inserting a <span> class, that the issue was resolved. The tooltips and icons displayed correctly.
 
-'''<section id="about-icons">
+```Html
+<section id="about-icons">
   <div class="container">
     <div class="row mb-5 mt-5 justify-content-md-center about-icons">
       <div class="col text-center">
@@ -384,6 +384,7 @@ After trying several solutions I consulted with my mentor Reuben and he discover
     </div>
   </div>
 </section>
+```
 
 ![This code resulted in the fontawesome icons being displayed correctly](https://github.com/alexjohnives/soundkissstudio/blob/master/assets/images/abouticonbugsolution.png)
 
