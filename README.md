@@ -301,7 +301,7 @@ Google lighthouse and Wave Web Accessibility Evaluation Tool were used to test t
 
 [Google Lighthouse](<https://developers.google.com/web/tools/lighthouse>)
 
-[Wave](<https://wave.webaim.org/>)
+[Wave](https://wave.webaim.org/)
 
 ### Accessibility Testing results - WAVE
 
@@ -312,14 +312,13 @@ Google lighthouse and Wave Web Accessibility Evaluation Tool were used to test t
 #### WAVE Errors
 
 index.html
-1 X Linked image missing alternative text on Back to top arrow icon
-5 x Missing alt text on Nav bar social media icons and logo
+1 X Linked image missing title on Back to top arrow icon - CORRECTED
+5 x Missing title text on Nav bar social media icons and logo - CORRECTED
 
 about.html
 The above errors were also present on the about page.
-In addition the tool flagged up
-1 x Missing youtube video alt text
-6 x Selected recording icon link alt texts
+
+In addition the tool flagged up 6 x Selected recording icon links without title texts - CORRECTED
 
 #### WAVE Alerts
 
