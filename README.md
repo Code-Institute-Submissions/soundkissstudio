@@ -390,11 +390,43 @@ After trying several solutions I consulted with my mentor Reuben and he discover
 
 - Hero image and overlay
 
-Utilising the approaccch used to 
+Utilising the approach demonstrated in the Whiskey Drop class, I created a hero image with overlay. I discovered that it did not display correctly on smaller media.
 
+![iphone5](https://github.com/alexjohnives/soundkissstudio/blob/master/assets/images/herobug.png)
+
+This I discovered was not a bug, but that I had not applied a media query to change the display of this element.
+
+I contacted tutor support who were very helpful in advising me what resources I could use to fix the issue, particularly this w3schools(https://www.w3schools.com/css/css_rwd_mediaqueries.asp) article.
+
+Key in the end to resolving this issue was the following media query
+
+'''@media only screen and (max-width: 768px) {
+    #hero-image {
+        background-size: contain;
+        width: 100vw;
+        height: 50vh;
+        margin-bottom: 3rem;
+        margin-top: 1rem;
+    }
+    .services img {
+      width: 12rem;
+      height: 12rem;
+    }
+}
+
+@media only screen and (max-width: 768px) {
+.sm-icons .nav-item {
+  text-align: center;
+}
+}
+
+I set the max-width to 768px to match Bootstraps medium breakpoint value, and the image now displayed correctly.
 
 
 ## Known Bugs
+
+There are no known bugs on this website.
+
 
 ## Deployment
 
