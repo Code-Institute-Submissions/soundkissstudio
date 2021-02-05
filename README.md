@@ -230,7 +230,7 @@ As a Returning and Frequent visitor:
 
 3. See the latest equipment and services on offer.
 
-- A seperate downloadable PDF was created so users could download information about equipment for sale and hire, and allow the website manager to regularly update this without changing the website design.
+- A separate downloadable sample PDF was created so users could download information about equipment for sale and hire, and allow the website manager to regularly update this without changing the website design.
 
 - Services clearly require contacting the studio as the nature of the business.
 
@@ -238,14 +238,15 @@ As a Returning and Frequent visitor:
 
 The website was tested on popular browsers incluing Google Chrome, Safari, Opera and Mozilla Firefox.
 
-A live link to the website was also made available on Slack channel peer code review![Peer code review](https://github.com/alexjohnives/soundkissstudio/blob/master/assets/images/peercodereview.png)
+A live link to the website was also made available on Slack channel peer code review!
+
+[Peer code review](https://github.com/alexjohnives/soundkissstudio/blob/master/assets/images/peercodereview.png)
 
 Several users commented and complimented the website, with no glitches reported.
 
 ### HTML Test
 
-Html code was tested using the W3C HTML Validator
-[HTML Validator] - (<https://validator.w3.org/>)
+Html code was tested using the [W3 HTML Validator](<https://validator.w3.org/>)
 
 #### HTML Test Errors
 
