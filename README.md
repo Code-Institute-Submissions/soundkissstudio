@@ -264,8 +264,11 @@ Detected errors are shown in the following screenshots:
 
 The code was then retested and received the green light.
 
-![HTML Pass](https://github.com/alexjohnives/soundkissstudio/blob/master/assets/images/htmlvalidatorsuccess.png)
+![HTML Index Pass](https://github.com/alexjohnives/soundkissstudio/blob/master/assets/images/htmlvalidatorsuccess.png)
 
+The about page contains one warning due to the absence of a header element in the icons section.
+
+![HTML About Pass](https://github.com/alexjohnives/soundkissstudio/blob/master/assets/images/htmlvalidator2.png)
 
 
 ### CSS Test
