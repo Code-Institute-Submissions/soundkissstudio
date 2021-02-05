@@ -435,7 +435,7 @@ Using Bootstrap 5 I wished to utilise the native tooltip class on this site, and
 
 ![This code resulted in the fontawesome icons being displayed with strange artefacts](https://github.com/alexjohnives/soundkissstudio/blob/master/assets/images/abouticonbug.png)
 
-After trying several solutions I consulted with my mentor Reuben and he discovered that by inserting a <span> class, that the issue was resolved. The tooltips and icons displayed correctly.
+After trying several solutions I consulted with my mentor Reuben and we discovered that by wrapping the icons in a <span> class, the issue was resolved. The tooltips and icons displayed correctly.
 
 ```Html
 <section id="about-icons">
@@ -469,7 +469,7 @@ Utilising the approach demonstrated in the Whiskey Drop class, I created a hero 
 
 ![iphone5](https://github.com/alexjohnives/soundkissstudio/blob/master/assets/images/herobug.png)
 
-This I discovered was not a bug, but that I had not applied a media query to change the display of this element.
+This I discovered was not a bug, but that I had not applied a media query correctly to change the display of this element.
 
 I contacted tutor support who were very helpful in advising me what resources I could use to fix the issue, particularly this w3schools(<https://www.w3schools.com/css/css_rwd_mediaqueries.asp>) article.
 
@@ -586,8 +586,8 @@ $ git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY
 
 ### Acknowledgements
 
-- Thanks to Johann Alberts and Igor at Codeinstitue Tutor Student Support for their guidance on using @media queries
+- Thanks to Johann Alberts and Igor at Code Institute Tutor Student Support for their guidance on using @media queries
 
-- Thank you to my Tutor Reuben Ferrante for his feedback, knowledge and positive guidance. I learnt a great deal from this project and look forward to the next.
+- Thank you to my Tutor Reuben Ferrante for his feedback, knowledge and positive guidance. Having to go for a redesign was tough but I've learnt a great deal from the process and look forward to getting the next one right from the beginning!
 
-- Thanks to Dr Lindsey Smith for all the cups of tea.
+- Thanks to Dr Lindsey Smith for all the cups of tea put my way while working.
